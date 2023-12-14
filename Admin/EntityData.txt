@@ -107,8 +107,8 @@ Monsters/Monster_spurrit diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seas
 Monsters/Monster_furcorn diamonds=40 plant@cold 28800 15 coins=1@80@coins=90 Natural furcorn,furcorn 4 0
 Monsters/Monster_spurrit_desert diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 
-Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 5
-Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 100 5
+Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 0
+Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 100 0
 
 Monsters/Monster_arackulele diamonds=6000 mech@shadow 10 100 coins=2@72@coins=1000 Ethereal arackulele,arackulele 0 0
 Monsters/Monster_reebro diamonds=1000 mech 10 100 coins=2@72@coins=1000 Ethereal reebro,reebro 0 0
@@ -170,21 +170,21 @@ Monsters/Knott_10_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,st
 Monsters/Knott_special_rare diamonds=2000 knottshurr 0 10000000 diamonds=5,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_special_rare 0 0
 
 
-Monsters/Monster_maulch coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,maulch 0 3
+Monsters/Monster_maulch coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,maulch 0 0
 
-Monsters/Monster_poewk coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,poewk 0 3
+Monsters/Monster_poewk coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,poewk 0 0
 
-Monsters/Monster_pixolotl coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,pixolotl 0 3
+Monsters/Monster_pixolotl coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,pixolotl 0 0
 
-Monsters/Monster_fleechwurm_undof coins=100000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Fleechwurm-o 0 3
-Monsters/Monster_wubbox_undof coins=7500000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wubbox-o 0 3
-Monsters/Monster_wubbox_rare_undof stars=1 electricity 0 10000000 diamonds=2,stars=2,stars=2@43200@diamonds=4,stars=4,stars=2 Supernatural-r ,Wubbox_rare-o 0 3
+Monsters/Monster_fleechwurm_undof coins=100000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Fleechwurm-o 0 0
+Monsters/Monster_wubbox_undof coins=7500000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wubbox-o 0 0
+Monsters/Monster_wubbox_rare_undof stars=1 electricity 0 10000000 diamonds=2,stars=2,stars=2@43200@diamonds=4,stars=4,stars=2 Supernatural-r ,Wubbox_rare-o 0 
 
-Monsters/Monster_wheezel diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
-Monsters/Monster_wheezel_rock diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
+Monsters/Monster_wheezel diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 0
+Monsters/Monster_wheezel_rock diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 0
 
-Monsters/Monster_knurv diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
-Monsters/Monster_knurv_rock diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
+Monsters/Monster_knurv diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 0
+Monsters/Monster_knurv_rock diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 0
 
 Monsters/Monster_toejammer_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural toejammer-o,toejammer-o 0 0
 
@@ -219,15 +219,15 @@ Monsters/Monster_treble Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Lege
 
 Monsters/Monster_knife diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife,knife 0 0
 
-Monsters/Monster_cataliszt diamonds=500 dream 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 5
+Monsters/Monster_cataliszt diamonds=500 dream 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 0
 
-Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 10
-Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 10
-Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 10
-Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,fa 0 10
-Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 10
-Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 10
-Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 10
+Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 0
+Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 0
+Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 0
+Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,fa 0 0
+Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 0
+Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 0
+Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
 
 Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
@@ -243,14 +243,14 @@ Structures/Structure_castle_undof4 coins=0 0 1
 Structures/Structure_castle_undof5 coins=0 0 1
 Structures/Structure_castle_undof6 coins=0 0 1
 
-Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 3
+Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 0
 Structures/Structure_amalgamator diamonds=100 0 1
 Structures/Structure_amalgamator_city coins=10000 0 1
 Structures/Structure_jukebox coins=1000 0 1
-Structures/Structure_jukebox_dream coins=10 0 1
-Structures/Structure_bass coins=100000 0 2
+Structures/Structure_jukebox_dream coins=10 0 0
+Structures/Structure_bass coins=100000 0 0
 
-Structures/Structure_masher coins=0,diamonds=5 3 2
+Structures/Structure_masher coins=0,diamonds=5 3 0
 Structures/Structure_crafter coins=50000 3 1
 
 Structures/Structure_knottmaker1 coins=100000 0 0
@@ -304,7 +304,7 @@ Decoration/Decoration_test6 coins=200 xpWhenPlaced:100 5 0
 Decoration/Decoration_test7 coins=200 xpWhenPlaced:100 5 0
 Decoration/Decoration_test8 coins=200 xpWhenPlaced:100 5 0
 Decoration/Decoration_test9 coins=200 xpWhenPlaced:100 5 0
-Decoration/Decoration_test10 coins=200 xpWhenPlaced:100 5 1
+Decoration/Decoration_test10 coins=200 xpWhenPlaced:100 5 0
 Decoration/Decoration_test11 coins=200 xpWhenPlaced:100 5 0
 Decoration/Decoration_test12 coins=200 xpWhenPlaced:100 5 0
 

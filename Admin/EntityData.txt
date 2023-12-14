@@ -18,81 +18,81 @@ Monsters/Monster_stoopa diamonds=0 water@faerie@air@plant 0 30 coins=1@28@coins=
 
 Monsters/Monster_deedge diamonds=0 water@plant@cold@air 0 30 coins=1@28@coins=550 Natural deedge,deedge 6 0
 
-Monsters/Monster_toejammer_rare diamonds=0 water 600 10 coins=2@120@coins=120 Natural-r toejammer_rare,toejammer_rare 0 0
-Monsters/Monster_oaktopus_rare diamonds=0 water@plant 57600 30 coins=2@80@coins=180 Natural-r oaktopus_rare,oaktopus_rare 0 0
-Monsters/Monster_quibble_rare diamonds=0 water@air 57600 30 coins=2@80@coins=180 Natural-r quibble_rare,quibble_rare 0 0
-Monsters/Monster_varrow_rare diamonds=0 air@faerie 72000 40 coins=2@80@coins=300 Magical-r varrow_rare,varrow_rare 0 0
-Monsters/Monster_spunge_rare diamonds=0 water@air@plant 86400 50 coins=2@72@coins=260 Natural-r spunge_rare,spunge_rare 0 0
-Monsters/Monster_dulsylvan_rare diamonds=0 air@plant@faerie 93600 60 coins=2@72@coins=520 Magical-r dulsylvan_rare,dulsylvan_rare 0 0
-Monsters/Monster_banno_rare diamonds=0 air@water@faerie 93600 60 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
-Monsters/Monster_phangler_rare diamonds=0 water@fire 72000 30 coins=2@80@coins=180 Natural-r phangler_rare,phangler_rare 0 0
+Monsters/Monster_toejammer_rare diamonds=0 water 0 10 coins=2@120@coins=120 Natural-r toejammer_rare,toejammer_rare 0 0
+Monsters/Monster_oaktopus_rare diamonds=0 water@plant 0 30 coins=2@80@coins=180 Natural-r oaktopus_rare,oaktopus_rare 0 0
+Monsters/Monster_quibble_rare diamonds=0 water@air 0 30 coins=2@80@coins=180 Natural-r quibble_rare,quibble_rare 0 0
+Monsters/Monster_varrow_rare diamonds=0 air@faerie 0 30 coins=2@80@coins=300 Magical-r varrow_rare,varrow_rare 0 0
+Monsters/Monster_spunge_rare diamonds=0 water@air@plant 0 30 coins=2@72@coins=260 Natural-r spunge_rare,spunge_rare 0 0
+Monsters/Monster_dulsylvan_rare diamonds=0 air@plant@faerie 0 30 coins=2@72@coins=520 Magical-r dulsylvan_rare,dulsylvan_rare 0 0
+Monsters/Monster_banno_rare diamonds=0 air@water@faerie 0 30 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
+Monsters/Monster_phangler_rare diamonds=0 water@fire 0 30 coins=2@80@coins=180 Natural-r phangler_rare,phangler_rare 0 0
 
-Monsters/Monster_clamble diamonds=70 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
+Monsters/Monster_clamble diamonds=0 earth@plant@cold 0 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
 
-Monsters/Monster_denchuhs diamonds=60 water@bone 36000 20 coins=1@80@coins=150 Magical denchuhs,denchuhs 6 0
+Monsters/Monster_denchuhs diamonds=0 water@bone 0 20 coins=1@80@coins=150 Magical denchuhs,denchuhs 6 0
 
-Monsters/Monster_pango diamonds=40 air@cold 28800 15 coins=1@80@coins=90 Natural pango,pango 4 0
+Monsters/Monster_pango diamonds=0 air@cold 0 15 coins=1@80@coins=90 Natural pango,pango 4 0
 
-Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga,olga 0 0
-Monsters/Monster_potbellyGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
-Monsters/Monster_quibbleGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
+Monsters/Monster_olga diamonds=0 water-g 0 30 coins=2@80@coins=180 Gamma olga,olga 0 0
+Monsters/Monster_potbellyGM diamonds=0 water-g 0 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
+Monsters/Monster_quibbleGM diamonds=0 water-g 0 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
 
-Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
+Monsters/Monster_mammott coins=0 cold 0 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
-Monsters/Monster_mammott_meduza coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
+Monsters/Monster_mammott_meduza coins=0 cold 0 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
-Monsters/Monster_noggin coins=400 earth 300 5 coins=1@120@coins=60 Natural noggin,noggin 0 0
-Monsters/Monster_noggin_meduza coins=400 earth 300 5 coins=1@120@coins=60 Natural noggin,noggin 0 0
+Monsters/Monster_noggin coins=0 earth 0 5 coins=1@120@coins=60 Natural noggin,noggin 0 0
+Monsters/Monster_noggin_meduza coins=0 earth 0 5 coins=1@120@coins=60 Natural noggin,noggin 0 0
 
-Monsters/Monster_boskus diamonds=40 cold@fire 28800 15 coins=1@80@coins=90 Natural boskus,boskus 4 0
-Monsters/Monster_cybop diamonds=40 air@earth 28800 15 coins=1@80@coins=90 Natural cybop,cybop 4 0
+Monsters/Monster_boskus diamonds=0 cold@fire 0 15 coins=1@80@coins=90 Natural boskus,boskus 4 0
+Monsters/Monster_cybop diamonds=0 air@earth 0 15 coins=1@80@coins=90 Natural cybop,cybop 4 0
 
-Monsters/Monster_maw diamonds=40 cold@water 28800 15 coins=1@80@coins=90 Natural maw,maw 4 0
-Monsters/Monster_maw_meduza diamonds=40 cold@water 28800 15 coins=1@80@coins=90 Natural maw,maw 4 0
+Monsters/Monster_maw diamonds=0 cold@water 0 15 coins=1@80@coins=90 Natural maw,maw 4 0
+Monsters/Monster_maw_meduza diamonds=0 cold@water 0 15 coins=1@80@coins=90 Natural maw,maw 4 0
 
-Monsters/Monster_bisonorus diamonds=130 air@plant@water@fire 79200 40 coins=1@28@coins=550 Natural bisonorus,bisonorus 6 0
+Monsters/Monster_bisonorus diamonds=0 air@plant@water@fire 0 30 coins=1@28@coins=550 Natural bisonorus,bisonorus 6 0
 
-Monsters/Monster_pongping diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
-Monsters/Monster_pongping_meduza diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
+Monsters/Monster_pongping diamonds=0 plant@earth@fire@cold 0 30 coins=1@28@coins=550 Natural pongping,pongping 6 0
+Monsters/Monster_pongping_meduza diamonds=0 plant@earth@fire@cold 0 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
 
-Monsters/Monster_tiawa diamonds=130 earth@water@fire@cold 79200 40 coins=1@28@coins=550 Natural tiawa,tiawa 6 0
-Monsters/Monster_shellbeat diamonds=130 earth@water@plant@air 79200 40 coins=1@28@coins=550 Natural shellbeat,shellbeat 6 0
+Monsters/Monster_tiawa diamonds=0 earth@water@fire@cold 0 30 coins=1@28@coins=550 Natural tiawa,tiawa 6 0
+Monsters/Monster_shellbeat diamonds=0 earth@water@plant@air 0 30 coins=1@28@coins=550 Natural shellbeat,shellbeat 6 0
 
-Monsters/Monster_meduza diamonds=1000 undead 0 100 coins=10@80@coins=1000 Supernatural meduza,meduza 10 0
+Monsters/Monster_meduza diamonds=0 undead 0 100 coins=10@80@coins=1000 Supernatural meduza,meduza 10 0
 
-Monsters/Monster_pummel diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=260 Natural pummel,pummel 4 0
-Monsters/Monster_pummel_meduza diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=260 Natural pummel,pummel 4 0
+Monsters/Monster_pummel diamonds=0 water@earth@plant 0 25 coins=1@72@coins=260 Natural pummel,pummel 4 0
+Monsters/Monster_pummel_meduza diamonds=0 water@earth@plant 0 25 coins=1@72@coins=260 Natural pummel,pummel 4 0
 
-Monsters/Monster_trox diamonds=70 water@earth@cold 43200 25 coins=1@72@coins=260 Natural trox,trox 4 0
+Monsters/Monster_trox diamonds=0 water@earth@cold 0 25 coins=1@72@coins=260 Natural trox,trox 4 0
 
-Monsters/Monster_knucklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical knucklehead,knucklehead 6 0
-Monsters/Monster_knucklehead_meduza diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
+Monsters/Monster_knucklehead diamonds=0 faerie@light 0 50 coins=1@72@coins=200 Magical knucklehead,knucklehead 6 0
+Monsters/Monster_knucklehead_meduza diamonds=0 faerie@light 0 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
 
-Monsters/Monster_potbelly_young coins=250 plant 300 1 coins=1@120@coins=60 Natural potbelly,potbelly_young 2 0
-Monsters/Monster_toejammer_young coins=250 water 300 1 coins=1@120@coins=60 Natural toejammer_young,toejammer_young 0 0
-Monsters/Monster_tweedle_young coins=300 air 300 1 coins=1@120@coins=60 Natural tweedle_young,tweedle_young 0 0
-Monsters/Monster_mammott_young coins=250 cold 300 1 coins=1@120@coins=60 Natural mammott,mammott_young 4 0
-Monsters/Monster_flootfly_young coins=3000 faerie 14400 2 coins=1@120@coins=90 Magical flootfly,flootfly_young 0 0
-Monsters/Monster_oaktopus_young diamonds=100 water@plant 28800 3 coins=1@80@coins=100 Natural oaktopus,oaktopus_young 4 0
-Monsters/Monster_dandidoo_young diamonds=100 air@plant 28800 3 coins=1@80@coins=100 Natural dandidoo_young,dandidoo_young 4 0
-Monsters/Monster_theremind_young coins=3000 psychic 14400 2 coins=1@120@coins=90 Magical theremind,theremind_young 6 0
-Monsters/Monster_fluoress_young coins=2000 light 14400 2 coins=1@120@coins=90 Magical fluoress_young,fluoress_young 6 0
-Monsters/Monster_clackula_young coins=4 bone 14400 2 coins=1@120@coins=90 Magical clackula,clackula_young 6 0
-Monsters/Monster_osstax_young diamonds=200 faerie@bone 36000 5 coins=1@80@coins=150 Magical osstax,osstax_young 6 0
-Monsters/Monster_knucklehead_young diamonds=200 faerie@light 36000 5 coins=1@80@coins=150 Magical knucklehead,knucklehead_young 4 0
-Monsters/Monster_maw_young diamonds=150 water@cold 28800 3 coins=1@80@coins=100 Natural maw_young,maw_young 4 0
-Monsters/Monster_stogg_young diamonds=150 earth@fire 28800 3 coins=1@80@coins=100 Natural stogg_young,stogg_young 4 0
-Monsters/Monster_phangler_young diamonds=150 fire@water 28800 3 coins=1@80@coins=100 Natural phangler_young,phangler_young 4 0
-Monsters/Monster_noggin_young coins=400 earth 300 1 coins=1@120@coins=60 Natural noggin,noggin_young 4 0
-Monsters/Monster_kayna_young coins=5000 fire 300 1 coins=1@120@coins=60 Natural kayna,kayna_young 4 0
-Monsters/Monster_quibble_young diamonds=150 water@air 28800 3 coins=1@80@coins=100 Natural quibble_young,quibble_young 0 0
-Monsters/Monster_rootitoot_young diamonds=500 water@fire@plant 43200 4 coins=1@72@coins=260 Natural rootitoot,rootitoot_young 4 0
-Monsters/Monster_reedling_young diamonds=500 air@plant@earth 43200 4 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
-Monsters/Monster_spunge_young diamonds=500 water@air@plant 43200 4 coins=1@72@coins=260 Natural spunge,spunge_young 4 0
-Monsters/Monster_bridgit_young diamonds=600 faerie@earth@fire 64800 7 coins=8@60@coins=260 Magical bridgit,bridgit_young 4 0
-Monsters/Monster_frondley_young diamonds=750 faerie@psychic@light 64800 7 coins=8@60@coins=260 Magical frondley,frondley_young 4 0
-Monsters/Monster_gloptic_young diamonds=1000 psychic@water@fire@plant 100800 10 coins=10@60@coins=400 Magical gloptic,gloptic_young 4 0
-Monsters/Monster_punkleton_young diamonds=1000 punkleton 43200 25 coins=1@28@coins=400 Seasonal punkleton,punkleton_young 10 0
+Monsters/Monster_potbelly_young coins=0 plant 0 1 coins=1@120@coins=60 Natural potbelly,potbelly_young 2 0
+Monsters/Monster_toejammer_young coins=0 water 0 1 coins=1@120@coins=60 Natural toejammer_young,toejammer_young 0 0
+Monsters/Monster_tweedle_young coins=0 air 0 1 coins=1@120@coins=60 Natural tweedle_young,tweedle_young 0 0
+Monsters/Monster_mammott_young coins=0 cold 0 1 coins=1@120@coins=60 Natural mammott,mammott_young 4 0
+Monsters/Monster_flootfly_young coins=0 faerie 0 2 coins=1@120@coins=90 Magical flootfly,flootfly_young 0 0
+Monsters/Monster_oaktopus_young diamonds=0 water@plant 0 3 coins=1@80@coins=100 Natural oaktopus,oaktopus_young 4 0
+Monsters/Monster_dandidoo_young diamonds=0 air@plant 0 3 coins=1@80@coins=100 Natural dandidoo_young,dandidoo_young 4 0
+Monsters/Monster_theremind_young coins=0 psychic 0 2 coins=1@120@coins=90 Magical theremind,theremind_young 6 0
+Monsters/Monster_fluoress_young coins=0 light 0 2 coins=1@120@coins=90 Magical fluoress_young,fluoress_young 6 0
+Monsters/Monster_clackula_young coins=0 bone 0 2 coins=1@120@coins=90 Magical clackula,clackula_young 6 0
+Monsters/Monster_osstax_young diamonds=0 faerie@bone 0 5 coins=1@80@coins=150 Magical osstax,osstax_young 6 0
+Monsters/Monster_knucklehead_young diamonds=0 faerie@light 0 5 coins=1@80@coins=150 Magical knucklehead,knucklehead_young 4 0
+Monsters/Monster_maw_young diamonds=0 water@cold 0 3 coins=1@80@coins=100 Natural maw_young,maw_young 4 0
+Monsters/Monster_stogg_young diamonds=0 earth@fire 0 3 coins=1@80@coins=100 Natural stogg_young,stogg_young 4 0
+Monsters/Monster_phangler_young diamonds=0 fire@water 0 3 coins=1@80@coins=100 Natural phangler_young,phangler_young 4 0
+Monsters/Monster_noggin_young coins=0 earth 0 1 coins=1@120@coins=60 Natural noggin,noggin_young 4 0
+Monsters/Monster_kayna_young coins=0 fire 0 1 coins=1@120@coins=60 Natural kayna,kayna_young 4 0
+Monsters/Monster_quibble_young diamonds=0 water@air 28800 3 coins=1@80@coins=100 Natural quibble_young,quibble_young 0 0
+Monsters/Monster_rootitoot_young diamonds=0 water@fire@plant 43200 4 coins=1@72@coins=260 Natural rootitoot,rootitoot_young 4 0
+Monsters/Monster_reedling_young diamonds=0 air@plant@earth 43200 4 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
+Monsters/Monster_spunge_young diamonds=0 water@air@plant 43200 4 coins=1@72@coins=260 Natural spunge,spunge_young 4 0
+Monsters/Monster_bridgit_young diamonds=0 faerie@earth@fire 64800 7 coins=8@60@coins=260 Magical bridgit,bridgit_young 4 0
+Monsters/Monster_frondley_young diamonds=0 faerie@psychic@light 64800 7 coins=8@60@coins=260 Magical frondley,frondley_young 4 0
+Monsters/Monster_gloptic_young diamonds=0 psychic@water@fire@plant 100800 10 coins=10@60@coins=400 Magical gloptic,gloptic_young 4 0
+Monsters/Monster_punkleton_young diamonds=0 punkleton 43200 25 coins=1@28@coins=400 Seasonal punkleton,punkleton_young 10 0
 
 Monsters/Monster_reedling_young_singer diamonds=10000 air@plant@earth 43200 25 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
 

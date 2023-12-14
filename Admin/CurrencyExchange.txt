@@ -5,3 +5,4 @@ Jewel=99000000;stars=0
 Vortex=99000000;diamonds=0
 Relic=99000000;diamonds=0
 diamonds=99000000;coins=0
+Virus=99000000;coins=0

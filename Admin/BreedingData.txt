@@ -29,14 +29,14 @@ Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 20
 Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 20
 Monsters/Monster_frondley=Monsters/Monster_oaktopus+Monsters/Monster_dandidoo 20
 
-Monsters/Monster_toejammer_rare=Monsters/Monster_wadee+Monsters/Monster_quibble 4
-Monsters/Monster_oaktopus_rare=Monsters/Monster_quibble+Monsters/Monster_banno 4
-Monsters/Monster_quibble_rare=Monsters/Monster_stoopa+Monsters/Monster_flootfly 4
-Monsters/Monster_varrow_rare=Monsters/Monster_likho+Monsters/Monster_stoopa 4
-Monsters/Monster_spunge_rare=Monsters/Monster_wadee+Monsters/Monster_toejammer 4
-Monsters/Monster_dulsylvan_rare=Monsters/Monster_dandidoo+Monsters/Monster_banno 4
-Monsters/Monster_banno_rare=Monsters/Monster_oaktopus+Monsters/Monster_toejammer 4
-Monsters/Monster_phangler_rare=Monsters/Monster_dulsylvan+Monsters/Monster_choral 4
+Monsters/Monster_toejammer_rare=Monsters/Monster_wadee+Monsters/Monster_quibble 20
+Monsters/Monster_oaktopus_rare=Monsters/Monster_quibble+Monsters/Monster_banno 20
+Monsters/Monster_quibble_rare=Monsters/Monster_stoopa+Monsters/Monster_flootfly 20
+Monsters/Monster_varrow_rare=Monsters/Monster_likho+Monsters/Monster_stoopa 20
+Monsters/Monster_spunge_rare=Monsters/Monster_wadee+Monsters/Monster_toejammer 20
+Monsters/Monster_dulsylvan_rare=Monsters/Monster_dandidoo+Monsters/Monster_banno 20
+Monsters/Monster_banno_rare=Monsters/Monster_oaktopus+Monsters/Monster_toejammer 20
+Monsters/Monster_phangler_rare=Monsters/Monster_dulsylvan+Monsters/Monster_choral 20
 ;
 City:
 Monsters/Monster_potbelly_young 85

@@ -1,31 +1,31 @@
 MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@MaxCoins Class EggSprite,IconSprite LevelRequirement Limit
 
-Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
-Monsters/Monster_potbelly coins=400 plant 300 5 coins=1@120@coins=60 Natural potbelly,potbelly 0 0
-Monsters/Monster_tweedle coins=400 air 300 5 coins=1@120@coins=60 Natural tweedle,tweedle 0 0
-Monsters/Monster_flootfly coins=400 faerie 14400 10 coins=1@120@coins=90 Magical flootfly,flootfly 6 0
-Monsters/Monster_wadee diamonds=60 water@faerie 36000 20 coins=1@80@coins=150 Magical wadee,wadee 6 0
-Monsters/Monster_choral diamonds=80 water@plant@faerie 46800 30 coins=1@72@coins=200 Magical choral,choral 6 0
-Monsters/Monster_likho diamonds=60 plant@faerie 36000 20 coins=1@80@coins=150 Magical likho,likho 6 0
-Monsters/Monster_oaktopus diamonds=40 water@plant 28800 15 coins=1@80@coins=90 Natural oaktopus,oaktopus 4 0
-Monsters/Monster_quibble diamonds=40 water@air 28800 15 coins=1@80@coins=90 Natural quibble,quibble 4 0
-Monsters/Monster_spunge diamonds=70 water@air@plant 43200 25 coins=1@72@coins=260 Natural spunge,spunge 4 0
-Monsters/Monster_dulsylvan diamonds=80 air@plant@faerie 46800 30 coins=1@72@coins=260 Magical dulsylvan,dulsylvan 6 0
-Monsters/Monster_banno diamonds=80 air@water@faerie 46800 30 coins=1@72@coins=260 Magical banno,banno 6 0
-Monsters/Monster_dandidoo diamonds=40 air@plant 28800 15 coins=1@80@coins=90 Natural dandidoo,dandidoo 4 0
-Monsters/Monster_varrow diamonds=60 air@faerie 36000 20 coins=1@80@coins=150 Magical varrow,varrow 6 0
-Monsters/Monster_stoopa diamonds=130 water@faerie@air@plant 79200 40 coins=1@28@coins=550 Magical stoopa,stoopa 6 0
+Monsters/Monster_toejammer coins=0 water 0 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
+Monsters/Monster_potbelly coins=0 plant 0 5 coins=1@120@coins=60 Natural potbelly,potbelly 0 0
+Monsters/Monster_tweedle coins=0 air 0 5 coins=1@120@coins=60 Natural tweedle,tweedle 0 0
+Monsters/Monster_flootfly coins=0 faerie 0 10 coins=1@120@coins=90 Magical flootfly,flootfly 6 0
+Monsters/Monster_wadee diamonds=0 water@faerie 0 20 coins=1@80@coins=150 Magical wadee,wadee 6 0
+Monsters/Monster_choral diamonds=0 water@plant@faerie 0 30 coins=1@72@coins=200 Magical choral,choral 6 0
+Monsters/Monster_likho diamonds=0 plant@faerie 0 20 coins=1@80@coins=150 Magical likho,likho 6 0
+Monsters/Monster_oaktopus diamonds=0 water@plant 0 15 coins=1@80@coins=90 Natural oaktopus,oaktopus 4 0
+Monsters/Monster_quibble diamonds=0 water@air 0 15 coins=1@80@coins=90 Natural quibble,quibble 4 0
+Monsters/Monster_spunge diamonds=0 water@air@plant 0 25 coins=1@72@coins=260 Natural spunge,spunge 4 0
+Monsters/Monster_dulsylvan diamonds=0 air@plant@faerie 0 30 coins=1@72@coins=260 Magical dulsylvan,dulsylvan 6 0
+Monsters/Monster_banno diamonds=0 air@water@faerie 0 30 coins=1@72@coins=260 Magical banno,banno 6 0
+Monsters/Monster_dandidoo diamonds=0 air@plant 0 15 coins=1@80@coins=90 Natural dandidoo,dandidoo 4 0
+Monsters/Monster_varrow diamonds=0 air@faerie 0 20 coins=1@80@coins=150 Magical varrow,varrow 6 0
+Monsters/Monster_stoopa diamonds=0 water@faerie@air@plant 0 30 coins=1@28@coins=550 Magical stoopa,stoopa 6 0
 
-Monsters/Monster_deedge diamonds=120 water@plant@cold@air 79200 40 coins=1@28@coins=550 Natural deedge,deedge 6 0
+Monsters/Monster_deedge diamonds=0 water@plant@cold@air 0 30 coins=1@28@coins=550 Natural deedge,deedge 6 0
 
-Monsters/Monster_toejammer_rare diamonds=75 water 600 10 coins=2@120@coins=120 Natural-r toejammer_rare,toejammer_rare 0 0
-Monsters/Monster_oaktopus_rare diamonds=80 water@plant 57600 30 coins=2@80@coins=180 Natural-r oaktopus_rare,oaktopus_rare 0 0
-Monsters/Monster_quibble_rare diamonds=80 water@air 57600 30 coins=2@80@coins=180 Natural-r quibble_rare,quibble_rare 0 0
-Monsters/Monster_varrow_rare diamonds=130 air@faerie 72000 40 coins=2@80@coins=300 Magical-r varrow_rare,varrow_rare 0 0
-Monsters/Monster_spunge_rare diamonds=1 water@air@plant 86400 50 coins=2@72@coins=260 Natural-r spunge_rare,spunge_rare 0 0
-Monsters/Monster_dulsylvan_rare diamonds=160 air@plant@faerie 93600 60 coins=2@72@coins=520 Magical-r dulsylvan_rare,dulsylvan_rare 0 0
-Monsters/Monster_banno_rare diamonds=160 air@water@faerie 93600 60 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
-Monsters/Monster_phangler_rare diamonds=1000 water@fire 72000 30 coins=2@80@coins=180 Natural-r phangler_rare,phangler_rare 0 0
+Monsters/Monster_toejammer_rare diamonds=0 water 600 10 coins=2@120@coins=120 Natural-r toejammer_rare,toejammer_rare 0 0
+Monsters/Monster_oaktopus_rare diamonds=0 water@plant 57600 30 coins=2@80@coins=180 Natural-r oaktopus_rare,oaktopus_rare 0 0
+Monsters/Monster_quibble_rare diamonds=0 water@air 57600 30 coins=2@80@coins=180 Natural-r quibble_rare,quibble_rare 0 0
+Monsters/Monster_varrow_rare diamonds=0 air@faerie 72000 40 coins=2@80@coins=300 Magical-r varrow_rare,varrow_rare 0 0
+Monsters/Monster_spunge_rare diamonds=0 water@air@plant 86400 50 coins=2@72@coins=260 Natural-r spunge_rare,spunge_rare 0 0
+Monsters/Monster_dulsylvan_rare diamonds=0 air@plant@faerie 93600 60 coins=2@72@coins=520 Magical-r dulsylvan_rare,dulsylvan_rare 0 0
+Monsters/Monster_banno_rare diamonds=0 air@water@faerie 93600 60 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
+Monsters/Monster_phangler_rare diamonds=0 water@fire 72000 30 coins=2@80@coins=180 Natural-r phangler_rare,phangler_rare 0 0
 
 Monsters/Monster_clamble diamonds=70 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
 

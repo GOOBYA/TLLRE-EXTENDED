@@ -22,12 +22,12 @@ Monsters/Monster_dulsylvan_rare 35 _rare
 Monsters/Monster_banno 35
 Monsters/Monster_stoopa 20
 
-Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 5
-Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 5
+Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 20
+Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 20
 
-Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 0
-Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 0
-Monsters/Monster_frondley=Monsters/Monster_oaktopus+Monsters/Monster_dandidoo 0
+Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 20
+Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 20
+Monsters/Monster_frondley=Monsters/Monster_oaktopus+Monsters/Monster_dandidoo 20
 
 Monsters/Monster_toejammer_rare=Monsters/Monster_wadee+Monsters/Monster_quibble 4
 Monsters/Monster_oaktopus_rare=Monsters/Monster_quibble+Monsters/Monster_banno 4
@@ -62,9 +62,9 @@ Monsters/Monster_spunge_young 30
 Monsters/Monster_reedling_young 30
 Monsters/Monster_bridgit_young 27
 Monsters/Monster_frondley_young 20
-Monsters/Monster_gloptic_young 10
+Monsters/Monster_gloptic_young 20
 
-Monsters/Monster_punkleton_young=Monsters/Monster_reedling_young+Monsters/Monster_oaktopus_young 4
+Monsters/Monster_punkleton_young=Monsters/Monster_reedling_young+Monsters/Monster_oaktopus_young 20
 
 ;
 Organs:
@@ -73,7 +73,7 @@ Monsters/Monster_oaktopus 70
 Monsters/Monster_denchuhs 50
 Monsters/Monster_boskus 60
 Monsters/Monster_cybop 60
-Monsters/Monster_schmoochle 4
+Monsters/Monster_schmoochle 20
 Monsters/Monster_theremind 60
 Monsters/Monster_clamble 50
 
@@ -97,26 +97,26 @@ Monsters/Monster_marshflamo 20
 Monsters/Monster_brasscuit 35
 Monsters/Monster_gobstomper 20
 Monsters/Monster_claramel 35
-Monsters/Monster_sprinklate 15
+Monsters/Monster_sprinklate 20
 
-Monsters/Monster_gumtromp_rare=Monsters/Monster_brasscuit+Monsters/Monster_claramel 10
-Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_claramel 10
-Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_brasscuit 10
+Monsters/Monster_gumtromp_rare=Monsters/Monster_brasscuit+Monsters/Monster_claramel 20
+Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_claramel 20
+Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_brasscuit 20
 
-Monsters/Monster_noggin_rare_undof=Monsters/Monster_brasscuit+Monsters/Monster_thrumble_undof 10
-Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_thrumble_undof 10
-Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_brasscuit 10
+Monsters/Monster_noggin_rare_undof=Monsters/Monster_brasscuit+Monsters/Monster_thrumble_undof 20
+Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_thrumble_undof 20
+Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_brasscuit 20
 
-Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_brasscuit 10
-Monsters/Monster_kayna_rare_undof=Monsters/Monster_claramel+Monsters/Monster_brasscuit 10
-Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 10
+Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_brasscuit 20
+Monsters/Monster_kayna_rare_undof=Monsters/Monster_claramel+Monsters/Monster_brasscuit 20
+Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 20
 
 
-Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 3
+Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 20
 
-Monsters/Monster_jamboree_undof=Monsters/Monster_sprinklate+Monsters/Monster_fwog_undof 4
-Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claramel 2
-Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brasscuit 2
-Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 2
-Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumble_undof 2
+Monsters/Monster_jamboree_undof=Monsters/Monster_sprinklate+Monsters/Monster_fwog_undof 20
+Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claramel 20
+Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brasscuit 20
+Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 20
+Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumble_undof 20
 

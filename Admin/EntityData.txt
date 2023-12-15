@@ -372,7 +372,7 @@ Monsters/Monster_quibble_dream coins=0 nightmare 0 9 coins=0@120@coins=60 nightm
 Monsters/Monster_stogg_dream coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Monster_toejammer_dream coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Monster_ghazt_dream coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/VOIDCORN_dream coins=0 nightmare 0 0 coins=0@120@coins=60 nightmare , 0 0
+Monsters/VOIDCORN_dream coins=0 knottshurr 0 0 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Monster_dragong_dream coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 
 
@@ -387,3 +387,4 @@ Monsters/Whimmzies coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Loodvigg coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Buzzinga coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Shlep coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/willisp coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0

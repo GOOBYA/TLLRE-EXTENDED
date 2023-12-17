@@ -377,14 +377,14 @@ Monsters/Monster_dragong_dream coins=0 nightmare 0 9 coins=0@120@coins=60 nightm
 
 
 Monsters/Bonapetite coins=0 electricity 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Congle coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Gnarls coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Krillby coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Pladdie coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Congle coins=0 air@water@cold 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Scaratar coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Uuduk coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Whimmzies coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Loodvigg coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Buzzinga coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Shlep coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Shlep coins=0 mythical-o@dream 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/willisp coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0

@@ -381,10 +381,10 @@ Monsters/Congle coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Gnarls coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Krillby coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Pladdie coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Scaratar coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Scaratar coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Uuduk coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Whimmzies coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Loodvigg coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Loodvigg coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Buzzinga coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Shlep coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0
 Monsters/willisp coins=0 nightmare 0 9 coins=0@120@coins=60 nightmare , 0 0

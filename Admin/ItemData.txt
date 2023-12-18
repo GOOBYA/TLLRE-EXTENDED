@@ -6,8 +6,10 @@ Island_City: 1440 100
 Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
-Fruit_apple 10 flowers
 Berries 10 flowers
+Fruit_apple 10 fruits
+Fruit_orange 5 fruits
+Fruit_pear 1 fruits
 ;
 Island_EM: 75 150
 Flower_red 10 flowers

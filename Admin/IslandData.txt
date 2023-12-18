@@ -5,9 +5,9 @@ Knottshurr 0 Complete z p
 Organs 0 Complete z p
 Desert 0 Complete z p
 Calamity 0 Complete z p
-GM 0 Incomplete z p
-TI 0 Incomplete z p
-Meduza 0 Incomplete z p
+GM 0 Complete z p
+TI 0 Complete z p
+Meduza 0 Complete z p
 dream 0 Complete z p
 test 0 Complete z p
 Minigame_Thumpies 0 Complete z p

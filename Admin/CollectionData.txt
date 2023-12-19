@@ -97,6 +97,7 @@ Monsters/Monster_rootitoot
 Monsters/Monster_trox
 Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
+Monsters/Monster_clamble
 ;
 Organs:
 Monsters/Monster_handmond
@@ -178,6 +179,7 @@ Monsters/Monster_arackulele
 Monsters/Monster_punkleton
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
+Monsters/Monster_clamble
 ;
 GM:
 Monsters/Monster_olga

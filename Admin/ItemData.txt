@@ -26,7 +26,7 @@ Island_Knottshurr: 60 60
 BlueLog 100 trees
 Bone 100 ground
 Rock 100 ground
-Vortex 10 ground_log
+Vortex 100 ground_log
 Wool 100 ground,wool
 ;
 Island_Candy: 40 40
@@ -47,9 +47,9 @@ Dew 33 dewSpawn
 ;
 Island_Organs: 40 40
 Bone 33 ground
-BloodCell_red 33 flying BloodCells
-BloodCell_white 33 flying BloodCells
-Virus 10 flying
+BloodCell_red 33 ground BloodCells
+BloodCell_white 33 ground BloodCells
+Virus 10 ground
 ;
 Island_Desert: 30 88
 Fabric 60 ground

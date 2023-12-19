@@ -3,15 +3,15 @@ DEF 1 1200 1
 
 
 
-ITM_amberstick 1 260 50
-ITM_flowerjam 3 780 50
-ITM_buttergum 4 1040 60
-ITM_mushroombroth 2 80 100
-ITM_cake 10 2600 150
-ITM_bonybaguette 5 1300 100
-ITM_salad 2 120 25
-ITM_grain 2 1040 50
-ITM_rootbeer 10 2600 250
-ITM_flingdrink 50 13000 1000
-ITM_applejuice 4 1040 60
-ITM_bloodcandy 2 1500 105
+ITM_amberstick 1 0 50
+ITM_flowerjam 1 0 50
+ITM_buttergum 1 0 60
+ITM_mushroombroth 1 0 100
+ITM_cake 1 0 150
+ITM_bonybaguette 1 0 100
+ITM_salad 1 0 25
+ITM_grain 1 0 50
+ITM_rootbeer 1 0 250
+ITM_flingdrink 1 0 1000
+ITM_applejuice 1 0 60
+ITM_bloodcandy 1 0 105

@@ -4,6 +4,7 @@ Candy 0 Complete z p
 Knottshurr 0 Complete z p
 Organs 0 Complete z p
 Desert 0 Complete z p
+EgyptPipes 0 Complete z p
 Calamity 0 Complete z p
 GM 0 Complete z p
 TI 0 Complete z p

@@ -40,7 +40,7 @@ Monsters/Monster_quibble_young=Young Quibble
 Monsters/Monster_quibble_young_bio=The endless enthusiasm of a Quibble hatchling is one unmatched by any other monster species. Collecting all sorts of colorful pebbles to make up its training keys, their creativity is bolstered by their endless asking of questions! Of course, the celestials are always glad to assist in answering all sorts of questions, though they still can't seem to discover the answer of where baby monsters come from...
 <Monsters/Monster_quibble_rare>
 Monsters/Monster_phangler_young=Young Phangler
-Monsters/Monster_phangler_young_bio=Young Phangler bio
+Monsters/Monster_phangler_young_bio=Young Phangleris a monster that exists
 Monsters/Monster_stogg_young=Young Stogg
 Monsters/Monster_stogg_young_bio=The astonishing arpeggios of the fledgling Stoggling have been a signature staple of the City's ambiance for as long as anyone can remember. And a bit further than that. Shockingly, young stoggs love to be buried in snow!
 Monsters/Monster_knucklehead_young=Young Knucklehead
@@ -58,9 +58,9 @@ Monsters/Monster_rootitoot_young_bio=The calm air that young Rootitoots provide 
 Monsters/Monster_bridgit_young=Young Bridg-it
 Monsters/Monster_bridgit_young_bio=Young Bridg'its love bows, tiaras and anything that makes them look adorable, their hair is always well decorated and combed, however, they have such tiny arms, they can't do all this work by themselves! Luckily there is always a motherly Scaratar nearby who is willing to help them with their tangly issues.
 Monsters/Monster_frondley_young=Young Frondley
-Monsters/Monster_frondley_young_bio=Young Frondley bio
+Monsters/Monster_frondley_young_bio=Young Frondleyis a monster that exists
 Monsters/Monster_trox_young=Young T-Rox
-Monsters/Monster_trox_young_bio=Young T-Rox bio
+Monsters/Monster_trox_young_bio=Young T-Roxis a monster that exists
 
 #BABY QUADS#
 Monsters/Monster_gloptic_young=Young Gloptic
@@ -74,7 +74,7 @@ Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emer
 Monsters/Monster_potbelly=Potbelly
 Monsters/Monster_potbelly_bio=The adult potbelly is a loud and extroverted creature, constantly babbling nonsense to everyone who can hear. Whilst other monsters would love to stay around and listen, eventually a potbelly may take off its pot and settle into the jabber, sometimes not even noticing the rooty tendrils engulfing it’s eager listener. Luckily, these days monsters have learned to stay away or gently remind the potbelly, and things go smooth from there.
 Monsters/Monster_mammott=Mammott
-Monsters/Monster_mammott_bio=Mammott bio
+Monsters/Monster_mammott_bio=Mammottis a monster that exists
 Monsters/Monster_tweedle=Tweedle
 Monsters/Monster_tweedle_bio=Psst? Did you hear that? The featherbrained Tweedle probably did! This gossip gathering monster is known for its abysmal secret-keeping ability- but all the fellow monsters keep it around, for its signature calming coo.
 Monsters/Monster_toejammer=Toe Jammer
@@ -82,7 +82,7 @@ Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality
 Monsters/Monster_noggin=Noggin
 Monsters/Monster_noggin_bio=Seemingly carved from the earth itself, Noggins share a certain pride in being one of the eldest natural monster lineages. For as long as there’s been soil to overturn, Noggins have been tumbling about the landscapes with an ever-iconic Thump! However, with a recent influx of monsters discovered to also be created via statues, some have questioned if the rocky exterior of the Noggin is indicative of some divine creation… though that’s too philosophical of a question for a Noggin to contemplate itself. After all, as is their namesake, a Noggin’s most noteworthy trait beyond their craggy carapace is an incredibly thick skull.
 Monsters/Monster_kayna=Kayna
-Monsters/Monster_kayna_bio=Kayna Bio
+Monsters/Monster_kayna_bio=Kaynais a monster that exists
 Monsters/Monster_fluoress=Fluoress
 Monsters/Monster_fluoress_bio=A fluoress may seem dim and dull, but that's just a facade. When in song with fellow monsters, Fluoress happily prods its dress of Fluorophyll, lighting up the darkness. While the reason for this strange reaction, as well as the origins of Fluorophyll, are quite a mystery, Fluoress gently reminds that one need not understand to appreciate. 
 Monsters/Monster_theremind=Theremind
@@ -90,23 +90,23 @@ Monsters/Monster_theremind_bio=A theremind's rubbery brain may cause some alarm 
 Monsters/Monster_flootfly=Floot Fly
 Monsters/Monster_flootfly_bio=The mystical Floot Fly is one of the most common monsters to stumble upon throughout the Lost Landscapes, as it's one of the friendliest monsters around! Floot-Flies love to throw tea parties in the most bizarre locations too! Invites to a tea party are always revered and accepted gleefully, as it's a great place to socialize and gossip!
 Monsters/Monster_clackula=Clackula
-Monsters/Monster_clackula_bio=Clackula bio
+Monsters/Monster_clackula_bio=Clackulais a monster that exists
 
 #ADULT OFFICIAL DOUBLES#
 Monsters/Monster_furcorn=Furcorn
-Monsters/Monster_furcorn_bio=Furcorn bio
+Monsters/Monster_furcorn_bio=Furcornis a monster that exists
 Monsters/Monster_dandidoo=Dandidoo
 Monsters/Monster_dandidoo_bio=As the warm flows of the ocean carry oysters around the deeps, a gentle breeze carries Dandidoo across the monster world. Their migrations rely on airflow since nature wasn't kind enough to grant them wings. They can conduct the air through their bodies to store and burst it out in a powerful stream of tuned tones and semitones. That's why their singing resembles "doo"s and "dee"s.\nTheir plant element gave them a greenish hue and afro-styled hair reminiscent of a common dandelion.
 Monsters/Monster_oaktopus=Oaktopus
 Monsters/Monster_oaktopus_bio=Oaktopi are packed full of wisdom to share with the world, about the world. They almost always have an answer to some of life's most burning questions; "Why is the sky blue?", "Is water wet?", and most notably, "Is mayonnaise an instrument?" (The answer is inconclusive, there is no mayonnaise monster). Sometimes they even say outlandish claims of islands once being carried by towering creatures across the monster world. Psh, yeah right. An Oaktopus can usually be seen reading a good book or swimming in a local hot spring.
 Monsters/Monster_pango=Pango
-Monsters/Monster_pango_bio=Pango bio
+Monsters/Monster_pango_bio=Pangois a monster that exists
 Monsters/Monster_maw=Maw
-Monsters/Monster_maw_bio=Maw bio
+Monsters/Monster_maw_bio=Mawis a monster that exists
 Monsters/Monster_quibble=Quibble
 Monsters/Monster_quibble_bio=The Quibble may seem like a graceful monster on the outside, but that's just a facade. The two heads constantly bicker, usually having polar opinions about the latest trends, or some other trivial issue. One time, the left Quibble wanted to order fries, but the right Quibble was eager to get a milkshake... chaos ensued. But in the end, they always make up with each other, like true siblings. Oh yeah, they ended up ordering fries dunked in a milkshake. A... unique consensus
 Monsters/Monster_boskus=Boskus
-Monsters/Monster_boskus_bio=Boskus bio
+Monsters/Monster_boskus_bio=Boskusis a monster that exists
 Monsters/Monster_phangler=Phangler
 Monsters/Monster_phangler_bio=On water and on land, a Phangler’s sure to lend a hand! Or.. a fin? A tail? No matter, this studio-set swimmer’s a welcome addition to any party, ready to wow the stage. During off hours, Phanglers are known to listen to podcasts and make quinoa smoothies- bleargh…
 Monsters/Monster_denchuhs=Denchuhs
@@ -114,37 +114,37 @@ Monsters/Monster_denchuhs_bio=Mah dentures
 Monsters/Monster_knucklehead=Knucklehead
 Monsters/Monster_knucklehead_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
 Monsters/Monster_osstax=Osstax
-Monsters/Monster_osstax_bio=Osstax bio
+Monsters/Monster_osstax_bio=Osstaxis a monster that exists
 Monsters/Monster_cybop=Cybop
-Monsters/Monster_cybop_bio=Cybop bio
+Monsters/Monster_cybop_bio=Cybopis a monster that exists
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
 Monsters/Monster_clamble=Clamble
-Monsters/Monster_clamble_bio=Clamble bio
+Monsters/Monster_clamble_bio=Clambleis a monster that exists
 Monsters/Monster_reedling=Reedling
-Monsters/Monster_reedling_bio=Reedling bio
+Monsters/Monster_reedling_bio=Reedlingis a monster that exists
 Monsters/Monster_rootitoot=Rootitoot
-Monsters/Monster_rootitoot_bio=Rootitoot bio
+Monsters/Monster_rootitoot_bio=Rootitootis a monster that exists
 Monsters/Monster_bridgit=Bridg-it
 Monsters/Monster_bridgit_bio=While stereotypes say trolls are generally cruel and live in basements, Bridg-it's quite the opposite. This melodic monster is one of the kindest one'll meet, constantly hosting tea parties, bridge building competitions, and much more. Well we think so, we havent seen it really do... anything besides those two things. 
 Monsters/Monster_frondley=Frondley
 Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
 Monsters/Monster_trox=T-Rox
-Monsters/Monster_trox_bio=T-Rox bio
+Monsters/Monster_trox_bio=T-Roxis a monster that exists
 
 #ADULT OFFICIAL QUADS#
 Monsters/Monster_deedge=Deedge
-Monsters/Monster_deedge_bio=Deedge bio
+Monsters/Monster_deedge_bio=Deedgeis a monster that exists
 Monsters/Monster_pongping=PongPing
-Monsters/Monster_pongping_bio=PongPing bio
+Monsters/Monster_pongping_bio=PongPingis a monster that exists
 Monsters/Monster_tiawa=Tiawa
-Monsters/Monster_tiawa_bio=Tiawa bio
+Monsters/Monster_tiawa_bio=Tiawais a monster that exists
 Monsters/Monster_bisonorus=Bisonorus
-Monsters/Monster_bisonorus_bio=Bisonorus bio (Azu if you will write this, please mention how the emperor looks like a wig when they are sleping)
+Monsters/Monster_bisonorus_bio=Bisonorusis a monster that exists (Azu if you will write this, please mention how the emperor looks like a wig when they are sleping)
 Monsters/Monster_shellbeat=Shellbeat
-Monsters/Monster_shellbeat_bio=Shellbeat bio
+Monsters/Monster_shellbeat_bio=Shellbeatis a monster that exists
 
 #MARSH FANMADES#
 Monsters/Monster_likho=Yap
@@ -163,13 +163,13 @@ Monsters/Monster_stoopa=Stoopa
 Monsters/Monster_stoopa_bio=Not much is known about the misty marsh deep in the heart of the Evergreen Woods, but legends speak of a strange monster that watches over and leads the song of the monsters that reside there. And whaddya know, here it is! Stoopa is even more of a recycling expert than Congle, finding anything and everything in nature to produce its song, even if it has to make some exceptions with its nature-based rule at times- proven by those... pots and pans on its stupa? Still very little is known about it, and Stoopa prefers to keep it that way while it wields its strange staff, and guards the secrets of the Marsh.
 
 Monsters/Monster_cataliszt=Cataliszt
-Monsters/Monster_cataliszt_bio=Cataliszt bio
+Monsters/Monster_cataliszt_bio=Catalisztis a monster that exists
 
 Monsters/Monster_jobo=Jodel
-Monsters/Monster_jobo_bio=Jodel bio
+Monsters/Monster_jobo_bio=Jodelis a monster that exists
 
 Monsters/Monster_treble=Ethenor
-Monsters/Monster_treble_bio=Ethenor bio
+Monsters/Monster_treble_bio=Ethenoris a monster that exists
 
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=<ref>DipsterBio
@@ -190,19 +190,19 @@ Monsters/Monster_knife=Banchi
 Monsters/Monster_knife_bio=Banchi is the beloved mythical of Candy Island. For years untold, the Banchi have been making the popular glutinous rice snack that is the monster-mochi, through which they also play their unique song. A rumor says that they use a secret ingredient to make their monster-mochi make a sound on impact, but no-one really knows what it is. Some speculations suggest that a certain feline spectral figure helped them out- someone who Banchi refers to as family.
 
 Monsters/Monster_wheezel=Wheezel
-Monsters/Monster_wheezel_bio=Wheezel bio
+Monsters/Monster_wheezel_bio=Wheezelis a monster that exists
 
 Monsters/Monster_wheezel_rock=Wheezel Rock
 Monsters/Monster_wheezel_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
 
 Monsters/Monster_knurv=Knurv
-Monsters/Monster_knurv_bio=Knurv bio
+Monsters/Monster_knurv_bio=Knurvis a monster that exists
 
 Monsters/Monster_knurv_rock=Knurv Rock
 Monsters/Monster_knurv_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
 
 Monsters/Monster_reebro=Reebro
-Monsters/Monster_reebro_bio=Reebro bio
+Monsters/Monster_reebro_bio=Reebrois a monster that exists
 
 Monsters/Monster_wubbox_undof=Wubbox
 Monsters/Monster_wubbox_undof_bio=One day as the monsters were tunneling underground, they stumbled upon an immense underground vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations:\n\nSample analysis of the box's exterior indicates that it shares traits with every known monster species - in fact, it even has specialized compartments with an otherworldy shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least.\n\nGather some intrepid monster volunteers and see what happens when you 'box' them!
@@ -222,14 +222,14 @@ Monsters/Monster_maulch_awake_bio=Maulch, the Monotone Mumbler, is perhaps not w
 
 
 Monsters/Monster_pixolotl=Pixolotl
-Monsters/Monster_pixolotl_bio=Pixolotl bio
+Monsters/Monster_pixolotl_bio=Pixolotlis a monster that exists
 Monsters/Monster_pixolotl_awake=Pixolotl
-Monsters/Monster_pixolotl_awake_bio=Pixolotl awake bio
+Monsters/Monster_pixolotl_awake_bio=Pixolotl awakeis a monster that exists
 
 Monsters/Monster_poewk=Poewk
-Monsters/Monster_poewk_bio=Poewk bio
+Monsters/Monster_poewk_bio=Poewkis a monster that exists
 Monsters/Monster_poewk_awake=Poewk
-Monsters/Monster_poewk_awake_bio=Poewk awake bio
+Monsters/Monster_poewk_awake_bio=Poewk awakeis a monster that exists
 
 Monsters/Monster_fleechwurm_undof=Fleechwurm
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
@@ -307,7 +307,7 @@ Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_
 Monsters/Knott_1=Knottshurr Tree
 Monsters/Knott_1_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
 Monsters/Knott_2=Bay
-Monsters/Knott_2_bio=Bay bio
+Monsters/Knott_2_bio=Bayis a monster that exists
 Monsters/Knott_3=Souxls Vessel
 Monsters/Knott_3_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
 Monsters/Knott_4=BoOoo
@@ -315,23 +315,23 @@ Monsters/Knott_4_bio=All those who hail from the Thumpiverse are well versed in 
 Monsters/Knott_5=Mount Tuzzpikk
 Monsters/Knott_5_bio=Mount Tuzzpikk was a regular Knott-rock that got affected by the Knottsurr magic, emmited from the mystical orbs found across the Knottsurr Island. It gained musical abilities and immediately after being animated, started to sing. It knows many compositions but "Pearrdesh Slougna" and "Ellepharrth" by "DJ. Goldenduck" is the closest to its rock heart. You can find it humming the melody non-stop whenever it's not singing.\nLeaving the island would result in reverting to its initial state of non-sentience. Unless it carries one of the sources of Knottsurr magic with it wherever it goes.
 Monsters/Knott_6=Mount Mound
-Monsters/Knott_6_bio=Mount Mound bio
+Monsters/Knott_6_bio=Mount Moundis a monster that exists
 Monsters/Knott_7=Flocca
 Monsters/Knott_7_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
 Monsters/Knott_8=Cleomace
-Monsters/Knott_8_bio=Cleomace bio
+Monsters/Knott_8_bio=Cleomaceis a monster that exists
 Monsters/Knott_9=Babushka Knittshurr
 Monsters/Knott_9_bio=Meet the friendliest creature in The Lost World. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
 Monsters/Knott_10=Bel'yawn Zirro
-Monsters/Knott_10_bio=Bel'yawn Zirro bio
+Monsters/Knott_10_bio=Bel'yawn Zirrois a monster that exists
 Monsters/Knott_special=Chimbickle
 Cimbasso + ickle
-Monsters/Knott_special_bio=Chimbickle bio
+Monsters/Knott_special_bio=Chimbickleis a monster that exists
 
 Monsters/Knott_1_rare=Rare Knottshurr Tree
 Monsters/Knott_1_rare_bio=Thanks to the greening stalk-like body of Rare Knottshurr Tree, provided by one of the BoOoos, it developed an anti-nymph odor, keeping them safe from those nasty plantcarvers. However, the newly developed smell just so happened to be chemically similar to the flitterfly pheromones. Thus, attracting even peskier pests. Long story short, it's now a flitterfly nest. 
 Monsters/Knott_2_rare=Rare Bay
-Monsters/Knott_2_rare_bio=Rare Bay bio
+Monsters/Knott_2_rare_bio=Rare Bayis a monster that exists
 Monsters/Knott_3_rare=Souxls Vessel
 Monsters/Knott_3_rare_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
 Monsters/Knott_4_rare=Rare BoOoo
@@ -339,17 +339,17 @@ Monsters/Knott_4_rare_bio=Rare BooOo is a misleading name. These thumpies are ac
 Monsters/Knott_5_rare=Rare Mount Tuzzpikk
 Monsters/Knott_5_rare_bio=Unlike mount Tuzzpikks that we are used to, these particular variants have a plethora of unique facial features on each of their heads. Every single one is full of emotions and character. A saying goes that the biggest of them was based around a monster, not native to any of the monster worlds. How peculiar...
 Monsters/Knott_6_rare=Rare Mount Mound
-Monsters/Knott_6_rare_bio=Rare Mount Mound bio
+Monsters/Knott_6_rare_bio=Rare Mount Moundis a monster that exists
 Monsters/Knott_7_rare=Rare Flocca
 Monsters/Knott_7_rare_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
 Monsters/Knott_8_rare=Rare Cleomace
-Monsters/Knott_8_rare_bio=Cleomace bio
+Monsters/Knott_8_rare_bio=Cleomaceis a monster that exists
 Monsters/Knott_9_rare=Rare Babushka Knittshurr
 Monsters/Knott_9_rare_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
 Monsters/Knott_10_rare=Rare Bel'yawn Zirro
-Monsters/Knott_10_rare_bio=Rare Bel'yawn Zirro bio
+Monsters/Knott_10_rare_bio=Rare Bel'yawn Zirrois a monster that exists
 Monsters/Knott_special_rare=Chimblickle
-Monsters/Knott_special_rare_bio=Chimblickle bio
+Monsters/Knott_special_rare_bio=Chimblickleis a monster that exists
 
 
 
@@ -359,7 +359,7 @@ Monsters/Knott_special_rare_bio=Chimblickle bio
 
 
 Monsters/Monster_handmond=Handmond
-Monsters/Monster_handmond_bio=Handmond bio
+Monsters/Monster_handmond_bio=Handmondis a monster that exists
 
 Monsters/Monster_whimstlop=Whimstlop
 Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
@@ -368,23 +368,23 @@ Monsters/Monster_whimstlop_meduza_bio=The inner machinations of the Whimstlop ar
 
 
 Monsters/Monster_mammott_meduza=<ref>Monsters/Monster_mammott
-Monsters/Monster_mammott_meduza_bio=Mammott bio
+Monsters/Monster_mammott_meduza_bio=Mammottis a monster that exists
 
 
 
 Monsters/Monster_maw_meduza=<ref>Monsters/Monster_maw
-Monsters/Monster_maw_meduza_bio=Maw bio
+Monsters/Monster_maw_meduza_bio=Mawis a monster that exists
 
 
 Monsters/Monster_pongping_meduza=<ref>Monsters/Monster_pongping
-Monsters/Monster_pongping_meduza_bio=PongPing bio
+Monsters/Monster_pongping_meduza_bio=PongPingis a monster that exists
 
 Monsters/Monster_meduza=M'Duzza
-Monsters/Monster_meduza_bio=M'Duzza bio
+Monsters/Monster_meduza_bio=M'Duzzais a monster that exists
 
 
 Monsters/Monster_noggin_meduza=<ref>Monsters/Monster_noggin
-Monsters/Monster_noggin_meduza_bio=Noggin bio
+Monsters/Monster_noggin_meduza_bio=Nogginis a monster that exists
 
 Monsters/Monster_theremind_meduza=<ref>Monsters/Monster_theremind
 Monsters/Monster_theremind_meduza_bio=A theremind's rubbery brain may cause some alarm to those inexperienced in monster biology. I mean, it's out in the open for all to see! However, rest assured, a theremind's noodle is well-protected by a thick outer skin, which protects it from all sorts of tumbles and falls. It's not like they walk often anyways, it's far more efficient to simply float about!
@@ -392,50 +392,50 @@ Monsters/Monster_theremind_meduza_bio=A theremind's rubbery brain may cause some
 Monsters/Monster_sox=Sox
 Monsters/Monster_sox_bio=After having finally met the common class of monsters first-hand, Sox's life has been forever changed. Now, rather than playing solemn bluesy tunes in the vast nothingness of the Pocket Dimension, Sox is free to play its melodies for the entire Lost World! Publicity isn't easy, however, as it still sometimes needs to dispel rumors of a supposed 'true sound' the Sox makes.
 Monsters/Monster_sox_meduza=<ref>Monsters/Monster_sox
-Monsters/Monster_sox_meduza_bio=Ded sox bio
+Monsters/Monster_sox_meduza_bio=Ded soxis a monster that exists
 
 Monsters/Monster_pummel=Pummel
 Monsters/Monster_pummel_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
 Monsters/Monster_pummel_meduza=<ref>Monsters/Monster_pummel
-Monsters/Monster_pummel_meduza_bio=Ded pummel bio
+Monsters/Monster_pummel_meduza_bio=Ded pummelis a monster that exists
 
 Monsters/Monster_knucklehead_meduza=<ref>Monsters/Monster_knucklehead
-Monsters/Monster_knucklehead_meduza_bio=Ded knuckles bio
+Monsters/Monster_knucklehead_meduza_bio=Ded knucklesis a monster that exists
 
 Monsters/Monster_schmoochle=Schmoochle
-Monsters/Monster_schmoochle_bio=Schmoochle bio
+Monsters/Monster_schmoochle_bio=Schmoochleis a monster that exists
 
 Monsters/Monster_punkleton=Punkleton
 Monsters/Monster_punkleton_bio=BOO! Grown punkletons lean more heavily into the Trick of Trick-or-Treat, loving to deal out spooky surprises for any visitors who come around. But beware, for there's a reason Punkleton's tricks are unforgettable...
 
 Monsters/Monster_ffydill=Ffidyll
-Monsters/Monster_ffydill_bio=Ffidyll bio
+Monsters/Monster_ffydill_bio=Ffidyllis a monster that exists
 
 Monsters/Monster_arackulele=Arackulele
-Monsters/Monster_arackulele_bio=Arackulele bio
+Monsters/Monster_arackulele_bio=Arackuleleis a monster that exists
 
 
 #CELESTIALS#
 Monsters/Monster_hornacle=Hornacle
-Monsters/Monster_hornacle_bio=Hornacle bio
+Monsters/Monster_hornacle_bio=Hornacleis a monster that exists
 Monsters/Monster_loodvigg=Loodvigg
-Monsters/Monster_loodvigg_bio=Loodvigg bio
+Monsters/Monster_loodvigg_bio=Loodviggis a monster that exists
 Monsters/Monster_blasoom=Blasoom
-Monsters/Monster_blasoom_bio=Blasoom bio
+Monsters/Monster_blasoom_bio=Blasoomis a monster that exists
 Monsters/Monster_torrt=Torrt
-Monsters/Monster_torrt_bio=Torrt bio
+Monsters/Monster_torrt_bio=Torrtis a monster that exists
 Monsters/Monster_scaratar=Scaratar
-Monsters/Monster_scaratar_bio=Scaratar bio
+Monsters/Monster_scaratar_bio=Scarataris a monster that exists
 Monsters/Monster_syncopite=Syncopite
-Monsters/Monster_syncopite_bio=Syncopite bio
+Monsters/Monster_syncopite_bio=Syncopiteis a monster that exists
 Monsters/Monster_attmoz=Attmoz
-Monsters/Monster_attmoz_bio=Attmoz bio
+Monsters/Monster_attmoz_bio=Attmozis a monster that exists
 Monsters/Monster_vhamp=Vhamp
-Monsters/Monster_vhamp_bio=Vhamp bio
+Monsters/Monster_vhamp_bio=Vhampis a monster that exists
 Monsters/Monster_furnoss=Furnoss
-Monsters/Monster_furnoss_bio=Furnoss bio
+Monsters/Monster_furnoss_bio=Furnossis a monster that exists
 Monsters/Monster_glaishur=Glaishur
-Monsters/Monster_glaishur_bio=Glaishur bio
+Monsters/Monster_glaishur_bio=Glaishuris a monster that exists
 Monsters/Monster_galvana=Galvana
 Monsters/Monster_galvana_bio=Yearly, the celestial cycle repeats itself anew, and the final monster of the cycle is the glowing Galvana. Powerful and pristine, this thunderous celestial guides its perfect pantheon, whilst also composing complex crescendos! Now known to even posses the spark of life within its galvanizing orb, Galvana is a popular and much revered celestial from the City to the frontiers of the farthest realms… 
 Monsters/Monster_plixie=Plixie
@@ -445,12 +445,12 @@ Monsters/Monster_light_bio=How ludicrous! The lanky Loch-nitt is a truly strange
 Monsters/Monster_bone=Amoniterium
 Monsters/Monster_bone_bio=In a distant land, born of the tear of a dying star, a unique creature ruled the land... So begins the favorite story of the alluring Amoniterium. A radical role-player of its own class, this boisterous being loves playing make-believe, imagining all sorts of backstories and creating fun costumes. While its own origins remain a mystery, it can only imagine how it was created. No matter what, one thing's for sure: we know it'll become a part of the identity of every bone in the Amoniterium's well outfitted body! 
 Monsters/Monster_psychic=Talactic
-Monsters/Monster_psychic_bio=Macrocranium bio
+Monsters/Monster_psychic_bio=Macrocraniumis a monster that exists
 Monsters/Monster_faerie=Chordyrid
-Monsters/Monster_faerie_bio=Chordyrid bio
+Monsters/Monster_faerie_bio=Chordyridis a monster that exists
 
 Structures/Structure_breeding=Breeding Structure
-Structures/Structure_breeding_bio=Breeding Structure bio
+Structures/Structure_breeding_bio=Breeding Structureis a monster that exists
 
 <Structures/Structure_breeding_undof3>
 <Structures/Structure_breeding_undof3_bio>
@@ -484,10 +484,10 @@ Structures/Structure_castle_undof6=Extravagant Castle
 Structures/Structure_castle_undof6_bio=This state of the art domicile goes way overboard when it comes to spoiling the monsters...  Personal assistants to wait on them hand and foot (at least those that have hands and feet), the spiffiest sound systems on the monster market...  They've got it made in the shade.
 
 Structures/Structure_bakery=Outer Island Bakery
-Structures/Structure_bakery_bio=Bakery bio
+Structures/Structure_bakery_bio=Bakeryis a monster that exists
 
 Structures/Structure_amalgamator=Amalgamator
-Structures/Structure_amalgamator_bio=Amalgamator bio
+Structures/Structure_amalgamator_bio=Amalgamatoris a monster that exists
 
 Structures/Structure_crafter=Crafter
 Structures/Structure_crafter_bio=The Crafter is a strange contraption! Try out some of the recipes for new goodies and treats!
@@ -502,16 +502,16 @@ Structures/Structure_knottmaker1=Strange contraption
 Structures/Structure_knottmaker1_bio=Hmm... what could this strange contraption possibly be? Gather some resources around the island to find out!
 
 Structures/Structure_knottmaker2=Rejuvenated Amalgamator
-Structures/Structure_knottmaker2_bio=Amalgamator bio
+Structures/Structure_knottmaker2_bio=Amalgamatoris a monster that exists
 
 Structures/Structure_knottmaker3=Amalgamator
-Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
+Structures/Structure_knottmaker3_bio=Enhanced Amalgamatoris a monster that exists
 
 Structures/Structure_knottmaker4=Enhanced Amalgamator
-Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
+Structures/Structure_knottmaker4_bio=Refined Amalgamatoris a monster that exists
 
 Structures/Structure_stargazer=Observatory
-Structures/Structure_stargazer_bio=Observatory bio
+Structures/Structure_stargazer_bio=Observatoryis a monster that exists
 
 Structures/Structure_timemachine=Time Machine
 Structures/Structure_timemachine_bio=This strange and peculiar structure can warp time! Use the slider to slow down or speed up the music!
@@ -520,27 +520,27 @@ Structures/Structure_masher=Masher
 Structures/Structure_masher_bio=This is the Masher! Stick your items in and watch them be processed into delicious snacks for the youngsters!
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
-Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
+Monsters/Composer/Monster_potbelly_composer_bio=Potbellyis a monster that exists
 Monsters/Composer/Monster_toejammer_composer=Toe Jammer
-Monsters/Composer/Monster_toejammer_composer_bio=Toe Jammer bio
+Monsters/Composer/Monster_toejammer_composer_bio=Toe Jammeris a monster that exists
 Monsters/Composer/Monster_tweedle_composer=Tweedle
-Monsters/Composer/Monster_tweedle_composer_bio=Tweedle bio
+Monsters/Composer/Monster_tweedle_composer_bio=Tweedleis a monster that exists
 Monsters/Composer/Monster_flootfly_composer=Floot Fly
-Monsters/Composer/Monster_flootfly_composer_bio=Floot Fly bio
+Monsters/Composer/Monster_flootfly_composer_bio=Floot Flyis a monster that exists
 Monsters/Composer/Monster_choral_composer=Choralle
-Monsters/Composer/Monster_choral_composer_bio=Choralle bio
+Monsters/Composer/Monster_choral_composer_bio=Choralleis a monster that exists
 Monsters/Composer/Monster_likho_composer=Yap
-Monsters/Composer/Monster_likho_composer_bio=Yap bio
+Monsters/Composer/Monster_likho_composer_bio=Yapis a monster that exists
 Monsters/Composer/Monster_wadee_composer=Wadee
-Monsters/Composer/Monster_wadee_composer_bio=Wadee bio
+Monsters/Composer/Monster_wadee_composer_bio=Wadeeis a monster that exists
 Monsters/Composer/Monster_quibble_composer=Quibble
-Monsters/Composer/Monster_quibble_composer_bio=Quibble bio
+Monsters/Composer/Monster_quibble_composer_bio=Quibbleis a monster that exists
 Monsters/Composer/Monster_stoopa_composer=Stoopa
-Monsters/Composer/Monster_stoopa_composer_bio=Stoopa bio
+Monsters/Composer/Monster_stoopa_composer_bio=Stoopais a monster that exists
 Monsters/Composer/Monster_oaktopus_composer=Oaktopus
-Monsters/Composer/Monster_oaktopus_composer_bio=Oaktopus bio
+Monsters/Composer/Monster_oaktopus_composer_bio=Oaktopusis a monster that exists
 Monsters/Composer/Monster_spunge_composer=Spunge
-Monsters/Composer/Monster_spunge_composer_bio=Spunge bio
+Monsters/Composer/Monster_spunge_composer_bio=Spungeis a monster that exists
 
 Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
 Monsters/Monster_toejammer_undof_bio=While Toe Jammers may appear fragile, these rubbery Water elementals are very tough. Toe Jammers sing of liquid wonders: deep sea leviathans, crashing surf, flooded basements, and bubble tea!
@@ -573,13 +573,13 @@ Monsters/Monster_gumtromp=Gumtromp
 Monsters/Monster_gumtromp_bio=A sweet demeanored treat, the adorable Gumtromp parades around the monster world, giving inspirational speeches on how... candy is actually good for you and how the toothbrush mafia is out to get everyone. Yikes. But besides that, this marmalade monster loves to help its friends and caters plenty of sweets for events of any size. What a sugary delight! 
 
 Monsters/Monster_gumtromp_rare=Rare Gumtromp
-Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
+Monsters/Monster_gumtromp_rare_bio=Rare Gumtrompis a monster that exists
 
 Monsters/Monster_keytrus=Keytrus
 Monsters/Monster_keytrus_bio=Like its surprisingly-close kin, the Koodahcane, Keytrus is far-disconnected from its fellow candy monsters via its complete inedibility! In fact, Keytrus often find themselves scavenging about the surface of the Konficshonn colossal for sour sweets and delicacies! This sweet -- or, rather, sour -- tooth is only satiated by the disc-shaped fruits found growing in the colossal's beard. It then uses specialized claws at the tips of its limbs, normally covered by leaflike feathers, to slice the orange in half, revealing 4 quadrants of flesh that can be tapped to produce a wonderfully whimsical tink! These fruits, called Discus Fruits by the other monsters, are actually not sour at all, but Keytrus doesn't know that... don't ruin its fun.
 
 Monsters/Monster_keytrus_rare=Rare Keytrus
-Monsters/Monster_keytrus_rare_bio=Rare Keytrus bio
+Monsters/Monster_keytrus_rare_bio=Rare Keytrusis a monster that exists
 
 Monsters/Monster_koodahcane=Koodahcane
 Monsters/Monster_koodahcane_bio=The sweetening antlers of the Koodahcane are beloved by all inhabitants of the Candy Island. All sugar in the bloodstream of these scaly fish are accumulated on the tip of their skull and grown like hair. When it reaches a tipping point, Once a month or so, these sucrose-filled cranial canes are shed and left to be collected around the island, as sweet treats. 
@@ -655,11 +655,11 @@ Decoration/Decoration_test1_bio=Talkie Radishes are capable of remembering and s
 Decoration/Decoration_test2=Saptree
 Decoration/Decoration_test2_bio=These elegant trees are covered in sap, but who did that? Well the answer is simple: themselves! Saptrees have the ability of creating sap directly from their leaves, said sap is know for trapping little crriters who would dare to eat their greeny wig. Other monsters use the sap from the Saptree to extract sugar to make their delicious treats and even put in a big plate of pancakes!
 Decoration/Decoration_test3=Souxls Tree
-Decoration/Decoration_test3_bio=Souxls Tree bio
+Decoration/Decoration_test3_bio=Souxls Treeis a monster that exists
 Decoration/Decoration_test4=Gob Gush
 Decoration/Decoration_test4_bio=This enchanted statue provides an infinite source of fresh water for monsters. This is a wonderful thing, as these days much of the water is contaminated.
 Decoration/Decoration_test5=Funny Flora
-Decoration/Decoration_test5_bio=Funny Flora bio
+Decoration/Decoration_test5_bio=Funny Florais a monster that exists
 Decoration/Decoration_test6=Juggle Tulip
 Decoration/Decoration_test6_bio=At first glance, this can be easily mistaken for a Monster. But it's just a plant that can juggle anything, mostly eyeballs.
 Decoration/Decoration_test7=Bucket-o-Cattail
@@ -676,9 +676,9 @@ Decoration/Decoration_test12=The King
 Decoration/Decoration_test12_bio=Nobody knows what "The King" is, but everyone collectively agrees that they should stay away from it. It elicits heebee-jeebees to anyone brave enough to look at it in the eye.
 
 Decoration/Decoration_knott=Mount Knottshurr
-Decoration/Decoration_knott_bio=Mount Knottshurr bio
+Decoration/Decoration_knott_bio=Mount Knottshurris a monster that exists
 Decoration/Decoration_mors=Mountain Morsel
-Decoration/Decoration_mors_bio=Mountain Morsel bio
+Decoration/Decoration_mors_bio=Mountain Morselis a monster that exists
  
 
 ObstacleMushroomsbio=Removed fungi will be taken far away to wonderful new homes.
@@ -920,28 +920,28 @@ str_popup_islandAlreadyOn=You are already on this island.
 str_island_comingsoon=Coming Soon!
 
 str_island_City=Floating City
-str_island_City_bio=Floating City bio
+str_island_City_bio=Floating Cityis a monster that exists
 
 str_island_EM=Evergreen Marsh
-str_island_EM_bio=Evergreen Marsh bio
+str_island_EM_bio=Evergreen Marshis a monster that exists
 
 str_island_Organs=Terra of Organs
-str_island_Organs_bio=Terra of Organs bio
+str_island_Organs_bio=Terra of Organsis a monster that exists
 
 str_island_Knottshurr=Knottshurr Island
-str_island_Knottshurr_bio=Knottshurr Island bio
+str_island_Knottshurr_bio=Knottshurr Islandis a monster that exists
 
 str_island_Meduza=M'Duzza's Crypt
-str_island_Meduza_bio=M'Duzza's Crypt bio
+str_island_Meduza_bio=M'Duzza's Cryptis a monster that exists
 
 str_island_Desert=Noramba Desert
-str_island_Desert_bio=Noramba Desert bio
+str_island_Desert_bio=Noramba Desertis a monster that exists
 
 str_island_Candy=Candy Island
-str_island_Candy_bio=Candy Island bio
+str_island_Candy_bio=Candy Islandis a monster that exists
 
 str_island_Calamity=Calamity Island
-str_island_Calamity_bio=Calamity Island bio
+str_island_Calamity_bio=Calamity Islandis a monster that exists
 
 str_island_TI=Tutor's Island
 str_island_TI_bio=bio

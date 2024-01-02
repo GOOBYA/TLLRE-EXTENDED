@@ -29,8 +29,8 @@ Monsters/Monster_banno_rare coins=0
 Monsters/Monster_phangler_rare coins=0
 -
 monster_secret:
-Monsters/Monster_percFrog
-Monsters/Special/Monster_melochness
+Monsters/Monster_percFrog coins=0
+Monsters/Special/Monster_melochness coins=0
 -
 monster_rares:
 Monsters/Monster_toejammer_rare

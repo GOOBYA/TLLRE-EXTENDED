@@ -9,7 +9,7 @@ Monsters/Monster_flootfly,Monsters/Monster_likho,Monsters/Monster_wadee,Monsters
 7 6
 8 8
 9 1
-10 1 ISL:Knottshurr,ISL:Desert
+10 1 ISL:Knottshurr,ISL:Desert,ISL:EgyptPipes
 11 1
 12 2 ISL:Organs
 13 3

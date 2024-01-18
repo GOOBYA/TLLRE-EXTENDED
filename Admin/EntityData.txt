@@ -376,14 +376,14 @@ Monsters/VOIDCORN_dream coins=0 knottshurr 0 0 coins=10@120@coins=60 nightmare ,
 Monsters/Monster_dragong_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
 
 
-Monsters/Bonapetite coins=0 electricity 0 9 coins=10@120@coins=60 Supernatural , 0 0
-Monsters/Congle coins=0 air@water@cold 0 9 coins=10@120@coins=60 Natural , 0 0
-Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=10@120@coins=60 Natural , 0 0
-Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=10@120@coins=60 Natural , 0 0
-Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=10@120@coins=60 Magical , 0 0
+Monsters/Bonapetite coins=0 electricity 0 9 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural , 0 0
+Monsters/Congle coins=0 air@water@cold 0 9 coins=10@72@coins=260 Natural , 0 0
+Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=10@28@coins=550 Natural , 0 0
+Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=10@28@coins=550 Natural , 0 0
+Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=10@28@coins=550 Magical , 0 0
 Monsters/Scaratar coins=0 celestial 0 9 coins=4000@43200@coins=10000 Celestial scaratar,scaratar 0 0
-Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=10@120@coins=60 Magical , 0 0
-Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=10@120@coins=60 Magical , 0 0
+Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=10@72@coins=260 Magical , 0 0
+Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=10@80@coins=90 Magical , 0 0
 Monsters/Loodvigg coins=0 celestial 0 9 coins=4000@43200@coins=10000 Celestial loodvigg,loodvigg 0 0
-Monsters/Buzzinga coins=0 mythical-o 0 9 coins=10@120@coins=60 Mythical , 0 0
-Monsters/Shlep coins=0 dream 0 9 coins=10@120@coins=60 Mythical , 0 0
+Monsters/Buzzinga coins=0 mythical-o 0 9 coins=10@120@coins=120 Mythical , 0 0
+Monsters/Shlep coins=0 dream 0 9 coins=10@120@coins=120 Mythical , 0 0

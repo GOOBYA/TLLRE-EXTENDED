@@ -3,7 +3,7 @@ Maulch EM
 Monsters/Monster_potbelly 1
 ;
 Maulch City
-Monsters/Monster_knife
+Monsters/Monster_potbelly_young 1
 ;
 Fleechwurm Candy
 Monsters/Monster_toejammer_undof 1

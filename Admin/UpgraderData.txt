@@ -1,14 +1,14 @@
 
 Castle Candy
-Structures/Structure_castle_undof 60 coins=0 10000
-Structures/Structure_castle_undof2 3600 coins=0 15000
-Structures/Structure_castle_undof3 18000 coins=0 20000
-Structures/Structure_castle_undof4 36000 diamonds=0 20000
-Structures/Structure_castle_undof5 54000 diamonds=0 20000
-Structures/Structure_castle_undof6 86400 diamonds=0 20000
+Structures/Structure_castle_undof 0 coins=0 10000
+Structures/Structure_castle_undof2 0 coins=0 15000
+Structures/Structure_castle_undof3 0 coins=0 20000
+Structures/Structure_castle_undof4 0 diamonds=0 20000
+Structures/Structure_castle_undof5 0 diamonds=0 20000
+Structures/Structure_castle_undof6 0 diamonds=0 20000
 ;
 Castle Placeholder
-Structures/Structure_castle_undof 60 coins=0 10000
+Structures/Structure_castle_undof 0 coins=0 10000
 ;
 Breeding Candy
 Structures/Structure_breeding_undof 0 diamonds=0 10000

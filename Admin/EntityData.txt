@@ -311,12 +311,12 @@ Decoration/Decoration_test12 coins=0 xpWhenPlaced:99999999 5 0
 Decoration/Decoration_knott coins=0 xpWhenPlaced:99999999 0 0
 Decoration/Decoration_mors coins=0 xpWhenPlaced:99999999 0 0
 
-Decoration/Obstacle_EM_1 coins=0 25
-Decoration/Obstacle_EM_2 coins=0 50
-Decoration/Obstacle_EM_3 coins=0 75
-Decoration/Obstacle_EM_4 coins=0 25
-Decoration/Obstacle_EM_5 coins=0 50
-Decoration/Obstacle_EM_6 coins=0 75
+Decoration/Obstacle_EM_1 coins=0 1
+Decoration/Obstacle_EM_2 coins=0 1
+Decoration/Obstacle_EM_3 coins=0 1
+Decoration/Obstacle_EM_4 coins=0 1
+Decoration/Obstacle_EM_5 coins=0 1
+Decoration/Obstacle_EM_6 coins=0 1
 
 Decoration/Obstacle_placable_EM_1 diamonds=0 xpWhenPlaced:99999999 0 0
 Decoration/Obstacle_placable_EM_2 diamonds=0 xpWhenPlaced:99999999 0 0
@@ -325,12 +325,12 @@ Decoration/Obstacle_placable_EM_4 diamonds=0 xpWhenPlaced:99999999 0 0
 Decoration/Obstacle_placable_EM_5 diamonds=0 xpWhenPlaced:99999999 0 0
 Decoration/Obstacle_placable_EM_6 diamonds=0 xpWhenPlaced:99999999 0 0
 
-Decoration/Obstacle_Candy_1 coins=0 25
-Decoration/Obstacle_Candy_2 coins=0 50
-Decoration/Obstacle_Candy_3 coins=0 75
-Decoration/Obstacle_Candy_4 coins=0 25
-Decoration/Obstacle_Candy_5 coins=0 50
-Decoration/Obstacle_Candy_6 coins=0 75
+Decoration/Obstacle_Candy_1 coins=0 1
+Decoration/Obstacle_Candy_2 coins=0 1
+Decoration/Obstacle_Candy_3 coins=0 1
+Decoration/Obstacle_Candy_4 coins=0 1
+Decoration/Obstacle_Candy_5 coins=0 1
+Decoration/Obstacle_Candy_6 coins=0 1
 
 Decoration/Obstacle_placable_Candy_1 diamonds=0 xpWhenPlaced:99999999 0 0
 Decoration/Obstacle_placable_Candy_2 diamonds=0 xpWhenPlaced:99999999 0 0
@@ -376,14 +376,14 @@ Monsters/VOIDCORN_dream coins=0 knottshurr 0 0 coins=10@120@coins=60 nightmare ,
 Monsters/Monster_dragong_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
 
 
-Monsters/Bonapetite coins=0 electricity 0 9 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural , 0 0
-Monsters/Congle coins=0 air@water@cold 0 9 coins=10@72@coins=260 Natural , 0 0
-Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=10@28@coins=550 Natural , 0 0
-Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=10@28@coins=550 Natural , 0 0
-Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=10@28@coins=550 Magical , 0 0
+Monsters/Bonapetite coins=0 electricity 0 9 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Bonapetite 0 0
+Monsters/Congle coins=0 air@water@cold 0 9 coins=10@72@coins=260 Natural ,Congle 0 0
+Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=10@28@coins=550 Natural ,Gnarls 0 0
+Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=10@28@coins=550 Natural ,Krillby 0 0
+Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=10@28@coins=550 Magical ,Pladdie 0 0
 Monsters/Scaratar coins=0 celestial 0 9 coins=4000@43200@coins=10000 Celestial scaratar,scaratar 0 0
-Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=10@72@coins=260 Magical , 0 0
-Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=10@80@coins=90 Magical , 0 0
+Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=10@72@coins=260 Magical ,Uuduk 0 0
+Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=10@80@coins=90 Magical ,Whimmzies 0 0
 Monsters/Loodvigg coins=0 celestial 0 9 coins=4000@43200@coins=10000 Celestial loodvigg,loodvigg 0 0
-Monsters/Buzzinga coins=0 mythical-o 0 9 coins=10@120@coins=120 Mythical , 0 0
-Monsters/Shlep coins=0 dream 0 9 coins=10@120@coins=120 Mythical , 0 0
+Monsters/Buzzinga coins=0 mythical-o 0 9 coins=10@120@coins=120 Mythical ,Buzzinga 0 0
+Monsters/Shlep coins=0 dream 0 9 coins=10@120@coins=120 Mythical ,Shlep 0 0

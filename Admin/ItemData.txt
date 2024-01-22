@@ -3,24 +3,24 @@
 
 ;
 Island_City: 1440 150
-Flower_red 33 flowers
-Flower_yellow 33 flowers
-Flower_blue 33 flowers
-Berries 10 flowers
-Fruit_apple 10 flowers
-Fruit_orange 10 flowers
-Fruit_pear 10 flowers
+Flower_red 0 flowers
+Flower_yellow 0 flowers
+Flower_blue 0 flowers
+Berries 0 flowers
+Fruit_apple 0 flowers
+Fruit_orange 0 flowers
+Fruit_pear 0 flowers
 ;
 Island_EM: 75 150
-Flower_red 10 flowers
-Flower_yellow 10 flowers
-Flower_blue 15 flowers
-Cattail_water 50 water Cattail
-Log_water 15 water,water_log Log
-Log 20 ground
-Mushroom_1 30 ground
-Mushroom_2 10 tree
-Lilly 5 lilly
+Flower_red 0 flowers
+Flower_yellow 0 flowers
+Flower_blue 0 flowers
+Cattail_water 0 water Cattail
+Log_water 0 water,water_log Log
+Log 0 ground
+Mushroom_1 0 ground
+Mushroom_2 0 tree
+Lilly 0 lilly
 ;
 Island_Knottshurr: 60 150
 BlueLog 100 trees
@@ -38,7 +38,7 @@ Island_Farm: 10 20
 Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
-Fruit_apple 100 fruits
+Fruit_apple 10 fruits
 Fruit_orange 50 fruits
 Fruit_pear 10 fruits
 ;
@@ -54,8 +54,8 @@ Virus 10 ground
 Island_Desert: 30 150
 Fabric 60 ground
 Jewel 33 ground
-Goldegg 10 ground
-Relic 10 ground
+Goldegg 100 ground
+Relic 100 ground
 ;
 CatBoi: 2 150
 Catfur 33 catfurSpawn

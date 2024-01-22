@@ -7,9 +7,9 @@ Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
 Berries 10 flowers
-Fruit_apple 10 fruits
-Fruit_orange 10 fruits
-Fruit_pear 10 fruits
+Fruit_apple 10 flowers
+Fruit_orange 10 flowers
+Fruit_pear 10 flowers
 ;
 Island_EM: 75 150
 Flower_red 10 flowers

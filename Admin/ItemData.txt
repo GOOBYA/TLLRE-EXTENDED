@@ -3,24 +3,24 @@
 
 ;
 Island_City: 1440 150
-Flower_red 0 flowers
-Flower_yellow 0 flowers
-Flower_blue 0 flowers
-Berries 0 flowers
-Fruit_apple 0 flowers
-Fruit_orange 0 flowers
-Fruit_pear 0 flowers
+Flower_red 100 flowers
+Flower_yellow 100 flowers
+Flower_blue 100 flowers
+Berries 100 flowers
+Fruit_apple 100 flowers
+Fruit_orange 100 flowers
+Fruit_pear 100 flowers
 ;
 Island_EM: 75 150
-Flower_red 0 flowers
-Flower_yellow 0 flowers
-Flower_blue 0 flowers
-Cattail_water 0 water Cattail
-Log_water 0 water,water_log Log
-Log 0 ground
-Mushroom_1 0 ground
-Mushroom_2 0 tree
-Lilly 0 lilly
+Flower_red 100 flowers
+Flower_yellow 100 flowers
+Flower_blue 100 flowers
+Cattail_water 100 water Cattail
+Log_water 100 water,water_log Log
+Log 100 ground
+Mushroom_1 100 ground
+Mushroom_2 100 tree
+Lilly 100 lilly
 ;
 Island_Knottshurr: 60 150
 BlueLog 100 trees
@@ -43,20 +43,20 @@ Fruit_orange 50 fruits
 Fruit_pear 10 fruits
 ;
 Island_TI: 20 150
-Dew 33 dewSpawn
+Dew 100 dewSpawn
 ;
 Island_Organs: 40 150
-Bone 33 ground
-BloodCell_red 33 ground BloodCells
-BloodCell_white 33 ground BloodCells
-Virus 10 ground
+Bone 100 ground
+BloodCell_red 100 ground BloodCells
+BloodCell_white 100 ground BloodCells
+Virus 100 ground
 ;
 Island_Desert: 30 150
-Fabric 60 ground
-Jewel 33 ground
+Fabric 100 ground
+Jewel 100 ground
 Goldegg 100 ground
 Relic 100 ground
 ;
 CatBoi: 2 150
-Catfur 33 catfurSpawn
+Catfur 100 catfurSpawn
 ;

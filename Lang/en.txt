@@ -796,7 +796,7 @@ Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
 Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
 
 Decoration/Dog=Dog
-Decoration/Dog_bio=Dog goD.
+Decoration/Dog_bio=Schlawg.
 
 str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
@@ -1147,22 +1147,6 @@ goal_designerMode=Try out the <color="green">Path Designer Mode.
 goal_placeDeco=Buy and place <color="green">"<entityName>".
 goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
-str_setting_credits=Credits
-str_setting_spacialBlend=3D Sound
-
-str_credits_main=T.L.L. by:
-str_credits_execProd=Support:
-str_credits_art=Art:
-str_credits_anim=Animations:
-str_credits_mus=Music:
-str_credits_musSec=Secondary Music:
-str_credits_va=Voice Acting:
-str_credits_concept=Concepts:
-str_credits_writing=Writing:
-str_credits_trans_rus=Russian Translation:
-str_credits_trans_pr=Portuguese Translation:
-str_credits_thanks=Special Thanks:
-str_credits_cityContest=Contest Winners:
 
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>

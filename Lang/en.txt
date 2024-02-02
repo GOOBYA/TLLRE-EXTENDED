@@ -272,7 +272,7 @@ Monsters/Monster_varrow_rare=Rare Varrow
 Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varrow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...
 
 Monsters/Monster_banno_rare=Rare Banno
-Monsters/Monster_banno_rare_bio=twerking.
+Monsters/Monster_banno_rare_bio=gyat.
 
 
 
@@ -450,7 +450,7 @@ Monsters/Monster_faerie=Chordyrid
 Monsters/Monster_faerie_bio=Chordyrid is a monster that exists
 
 Structures/Structure_breeding=Breeding Structure
-Structures/Structure_breeding_bio=Breeding Structure is a monster that exists
+Structures/Structure_breeding_bio=This peculiar structure has been in use since the golden age of the Monster World, and little has changed since that time. Once it is old enough, a Monster can spontaneously produce an egg containing all of its genetic and elemental information, which is then placed onto one of the 'bowls' of the machine. These eggs, which are truly more like spores, slowly seep out their 'precious bodily fluids' down the twin drains of the structure and magically co-mingle in the center vessel, until a new egg is produced! The process is complicated though, as one breeding combination can have many possible outcomes.
 
 <Structures/Structure_breeding_undof3>
 <Structures/Structure_breeding_undof3_bio>

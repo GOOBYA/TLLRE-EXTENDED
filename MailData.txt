@@ -1,9 +1,52 @@
-age - 25-40
-sex - male
-income - 90,000-130,000
-education - aimed at collage/university/ freelance artist
-hobbies - modeling, sculpting, art, influensers, inventors
-region - global
+ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
-Gregory Foreman, a freelance artist who sells 3D printed models on etsy. He has a degree in fine arts. He lives in Ohio and is 29 years old.
-He makes 90k USD a year. He likes painting and sculpring whenever he has a chance to do so. He wants to expand his craft and start small 3D printing company. Making equipement for industries.
+intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (https://sites.google.com/view/msm-tll/home/tll-quickstart) through the button below!Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500;URL_LINK@Visit Tutorial Site@https://sites.google.com/view/msm-tll/home/tll-quickstart
+
+Rock;everyone;Happy Birthday!;Happy Birthday jackotrap!;icon@new;diamonds@200;stars@500;foodB@5000;Log@50
+
+test_hahahhaha;everyone;Test;test;icon@gift;URL_LINK@Visit Website@https://sites.google.com/d/1M2TR3BxDCTo1zwtevyPwCtoQCrfSKBek/p/1pVRAFCf5RB5fMUdTxMjbDvu63_z5hR2b/edit
+
+ToVizgemuAgain;everyone;Для Визгему II;Привет, Визгему!\nНадеюсь, бутерброды того стоили, ха-ха!\nЯ отправил вам немного игровой валюты в качестве компенсации. Может быть, она поможет восстановить часть потерянного прогресса. В следующий раз будьте осторожнее с бутербродами и пюрешкой!\nУдачи в восстановлении и приятной игры!\n\nRaw Zebra\nП.С. Вашу обсерваторию уже можно активировать.\n\n;url@https://yt3.googleusercontent.com/hTM6KvOhK8tLYDffri_lim393HpvykG407UjhmGfEnk_YZ8AgVE-CBLZ_etibTRe4PN-JRNq=s176-c-k-c0x00ffffff-no-rj;diamonds@70;Relic@40;stars@400;Monsters/Monster_jamboree_undof@10
+
+
+PedroGuntly;everyone;Para Pedro;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
+
+Kaww;everyone;Para Kaww;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
+
+Fire;everyone;Para FirePlayer;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
+
+patch2;everyone;New Update (0.9);Hey there- we've added a new update, bringing new paths to Candy Island and adding some quality of life features. If you haven't yet, download the new update on our website at https://sites.google.com/view/msm-tll/download to play! As well, due to some tweaking of the game, a few people's T-Roxes on Noramba Desert became voidcorns. Please help yourselves to a free T-Rox as compensation (youll need to open this mail message on Desert to claim it!) Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
+
+feastember;everyone;Happy Feastember!;Hey everyone! Feastember is upon us, and thus it's the perfect time to express how grateful we are for all of our players, and the massive amount of support and kind words we've recieved from the community. We couldn't do this without all of you, and rest assured that there will be more surprises around the bend! In the meantime, have a good time with your families (even if you don't celebrate thanksgiving) and take these fun goodies!;icon@thx;diamonds@75;stars@100;foodB@500;ITM_grain@15
+
+JoboBirthday;everyone;Jodel Available for 50% off!;Jobo, the voice behind Jodel, turned 20 today!\n Jodel is available 50% off on Candy Island for three days!;icon@discount
+
+mpg;everyone;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;foodB@500000;coins@100000000;Vortex@100;Monsters/Monster_scaratar@1
+
+
+ThatOneBean;everyone;To That One Bean;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;stars@600
+
+NathanGamesYT3;everyone;To NathanGames YT;Here's your <color=purple>Olgaropipe</color>. Don't lose it again! :)  - RawZebra;icon@present;Monsters/Monster_olga@1
+
+mammott;everyone;To MSM BIT;I hope you are having fun! Here are some <color=yellow>Goods</color> - RawZebra;icon@present;diamonds@4000;Vortex@30
+
+
+MSMContent;everyone;To MSMContent;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_pango@1
+
+Evolayersen;everyone;To Evolayersen;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@10000;Monsters/Monster_knife@1
+
+Gnarlsguy;everyone;To Knurvingarls;I hope you are having fun! Here are some goods.\n Breed Cybop with Handmond to get Whimstlop! - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_cybop@1
+
+ppopasa2ddd;everyone;fghfhk;fghjfhjfghj;icon@present;Relic@20
+
+ContestWinner_new_1;everyone;paffosovich;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_punkleton@1
+ContestWinner_new_1;everyone;Тимур;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_schmoochle@1
+ContestWinner_new_1;everyone;Paint_Pong;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Knott_special@1
+ContestWinner_new_1;everyone;Захар;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_plixie@1
+ContestWinner_new_1;everyone;Тиаква;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_ffydill@1
+
+
+aga;everyone;Aha;Pon - RawZebra;icon@gift;diamonds@30000
+
+
+reset;everyone;Paint_Pong 2;Pon - RawZebra;icon@gift;diamonds@9900

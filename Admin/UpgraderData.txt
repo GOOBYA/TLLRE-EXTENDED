@@ -12,19 +12,19 @@ Structures/Structure_castle_undof 0 coins=0 10000
 ;
 Breeding Candy
 Structures/Structure_breeding_undof 0 diamonds=0 10000
-Structures/Structure_breeding_undof2 0 diamonds=0,Candycane=0,Candycorn=0,Peppermint=0 10000
-Structures/Structure_breeding_undof3 0 diamonds=0,Candycane=0,Candycorn=0,Peppermint=0 10000
+Structures/Structure_breeding_undof2 0 diamonds=0 10000
+Structures/Structure_breeding_undof3 0 diamonds=0 10000
 ;
 Wheezel Organs
-Monsters/Monster_wheezel_rock 0 Catfur=0,BloodCells=0,Bone=0,Log=0,Virus=0 10000
+Monsters/Monster_wheezel_rock 0 Catfur=0 10000
 Monsters/Monster_wheezel 0 diamonds=0 1
 ;
 Knurv Organs
-Monsters/Monster_knurv_rock 0 Catfur=0,Vortex=0,Rock=0,Log=0,Flower_yellow=0,Flower_blue=0 10000
+Monsters/Monster_knurv_rock 0 Catfur=0 10000
 Monsters/Monster_knurv 0 diamonds=0 1
 ;
 Knottmaker Knottshurr
-Structures/Structure_knottmaker1 0 BlueLog=0,Rock=0,Vortex=0 10000
-Structures/Structure_knottmaker2 0 BlueLog=0,Rock=0,Bone=0,Vortex=0 10000
-Structures/Structure_knottmaker3 0 BlueLog=0,Rock=0,Bone=0,Wool=0,Vortex=0 10000
+Structures/Structure_knottmaker1 0 BlueLog=0 10000
+Structures/Structure_knottmaker2 0 BlueLog=0 10000
+Structures/Structure_knottmaker3 0 BlueLog=0 10000
 Structures/Structure_knottmaker4 0 diamonds=0 10000

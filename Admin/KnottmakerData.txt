@@ -16,14 +16,8 @@
 1000 Monsters/Knott_1_rare 1 Log=0 0 0 1
 1000 Monsters/Knott_2_rare 2 Log=0 0 0 1
 1000 Monsters/Knott_5_rare 5 Jewel=0 0 0 1
-
 1000 Monsters/Knott_10_rare 10 Jewel=0 0 0 1
-
 1000 Monsters/Knott_9_rare 9 Log=0 0 0 1
-
 1000 Monsters/Knott_special_rare-d special Log=0 0 0 1
-
 1000 Monsters/Monster_toejammer_rare 6 Relic=0 0 0 1
-
-
-100 none 0 none 1,2,5 0,0,0
+1 none 0 none 1,2,5 0,0,0

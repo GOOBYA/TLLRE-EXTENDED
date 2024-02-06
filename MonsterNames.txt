@@ -28,6 +28,7 @@ Charborium
 Woodywoo
 ;
 Monsters/Monster_likho
+YappyYap
 Yip
 Yipper
 Carl

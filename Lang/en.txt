@@ -1162,6 +1162,45 @@ Monsters/Monster_quibbleGM_bio=Well... it seems that it's in a Quibble's DNA to 
 Monsters/Monster_pummelGM=Wadabuana
 Monsters/Monster_pummelGM_bio=Wab dabba doo wab wub dubba doo
 
+Monsters/Monster_tweedleGM=Klushbob
+Monsters/Monster_tweedleGM_bio=gamma monster
+
+Monsters/Monster_noggin_gamma=kabrab
+Monsters/Monster_noggin_gamma_bio=gamma monster
+
+Monsters/Monster_dandidoo_gamma=AnTara
+Monsters/Monster_dandidoo_gamma_bio=gamma monster
+
+Monsters/Monster_cybop_gamma=Tabicrab
+Monsters/Monster_cybop_gamma_bio=gamma monster
+
+Monsters/Monster_shrubb_gamma=Ulyoves
+Monsters/Monster_shrubb_gamma_bio=gamma monster
+
+Monsters/Monster_oaktopus_gamma=Cetova
+Monsters/Monster_oaktopus_gamma_bio=gamma monster
+
+Monsters/Monster_fwog_gamma=ciltezen
+Monsters/Monster_fwog_gamma_bio=gamma monster
+
+Monsters/Monster_reedling_gamma=jasil
+Monsters/Monster_reedling_gamma_bio=gamma monster
+
+Monsters/Monster_spunge_gamma=Vyvdunn
+Monsters/Monster_spunge_gamma_bio=gamma monster
+
+Monsters/Monster_scups_gamma=Lammam
+Monsters/Monster_scups_gamma_bio=gamma monster
+
+Monsters/Monster_shellbeat_gamma=Rakotak
+Monsters/Monster_shellbeat_gamma_bio=gamma monster
+
+Monsters/Monster_jeeode_gamma=belugrass
+Monsters/Monster_jeeode_gamma_bio=gamma monster
+
+Monsters/Monster_blabbit_gamma=Yapper
+Monsters/Monster_blabbit_gamma_bio=gamma monster
+
 Monsters/Bonapetite=Bonapetite
 Monsters/Bonapetite_bio=Bonapetite
 Monsters/Congle=Congle

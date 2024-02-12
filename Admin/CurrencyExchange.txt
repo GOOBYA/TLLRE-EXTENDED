@@ -1,7 +1,7 @@
 stars=99999999;diamonds=0
 coins=99999999;diamonds=0
 Lilly=99999999;diamonds=0
-Jewel=99999999;stars=0
+Jewel=99999999;coins=0
 Vortex=99999999;diamonds=0
 Relic=99999999;diamonds=0
 diamonds=99999999;coins=0

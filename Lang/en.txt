@@ -257,8 +257,8 @@ Monsters/Monster_oaktopus_rare_bio=Sporting a pair of handy appendages, Rare Oak
 Monsters/Monster_spunge_rare=Rare Spunge
 Monsters/Monster_spunge_rare_bio=The dry-eyed Rare Spunge is a fascinating example of the adaptations that environment based mutations can bring about. Seeming to stem from particularly composed waters, mutations through this wacky spunge have changed almost everything about this Spunge, from its color to the amount of each organ it has. Some even suspect it may have a second mouth inside of its body. Ew. Just Ew. 
 
-Monsters/Monster_percFrog=Amphibeat
-Monsters/Monster_percFrog_bio=Amphibeat is a frog. How did you even get this monster? Did you get the combo from my 20k special video? If not then idk..
+Monsters/Monster_percFrog=Stoad
+Monsters/Monster_percFrog_bio=Stoad is a toad. Where have i seen him before? is he from my 20k special video? If not then idk..
 
 Monsters/Monster_phangler_rare=Rare Phangler
 Monsters/Monster_phangler_rare_bio=Glub Glub Glub. The Rare Phangler ate a little too much mud from the bottom of the marsh waters, and its tail fell off. Luckily it had extra in its pockets, so it stuck those on and used them as arms!
@@ -307,7 +307,7 @@ Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_
 Monsters/Knott_1=Knottshurr Tree
 Monsters/Knott_1_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
 Monsters/Knott_2=Bay
-Monsters/Knott_2_bio=Bay is a monster that exists
+Monsters/Knott_2_bio=Bay wdf maw a not sure
 Monsters/Knott_3=Souxls Vessel
 Monsters/Knott_3_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
 Monsters/Knott_4=BoOoo
@@ -326,7 +326,7 @@ Monsters/Knott_10=Bel'yawn Zirro
 Monsters/Knott_10_bio=Bel'yawn Zirro is a monster that exists
 Monsters/Knott_special=Chimbickle
 Cimbasso + ickle
-Monsters/Knott_special_bio=Chimbickle is a monster that exists
+Monsters/Knott_special_bio=Piccolo cimbasso
 
 Monsters/Knott_1_rare=Rare Knottshurr Tree
 Monsters/Knott_1_rare_bio=Thanks to the greening stalk-like body of Rare Knottshurr Tree, provided by one of the BoOoos, it developed an anti-nymph odor, keeping them safe from those nasty plantcarvers. However, the newly developed smell just so happened to be chemically similar to the flitterfly pheromones. Thus, attracting even peskier pests. Long story short, it's now a flitterfly nest. 

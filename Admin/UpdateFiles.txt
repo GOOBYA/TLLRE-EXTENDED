@@ -24,8 +24,8 @@ monster_cataliszt entity-d Monsters/Monster_cataliszt
 dreamaudio2 audio-d dream
 dream midi-d
 
-egyptpipes_scene scene-d EgpytPipes
-egyptpipes_audio audio-d EgpytPipes
+egyptpipes_scene scene-d EgyptPipes
+egyptpipes_audio audio-d EgyptPipes
 egyptpipes_entities entities-d Gnarls@Monsters/Gnarls;Congle@Monsters/Congle;Whimmzies@Monsters/Whimmzies;Krillby@Monsters/Krillby;Uuduk@Monsters/Uuduk;Scaratar@Monsters/Scaratar;Bonapetite@Monsters/Bonapetite;Pladdie@Monsters/Pladdie;Buzzinga@Monsters/Buzzinga;Shlep@Monsters/Shlep;Loodvigg@Monsters/Loodvigg
 egyptpipes_midi midi-d
 

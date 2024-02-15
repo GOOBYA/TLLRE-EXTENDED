@@ -108,7 +108,7 @@ Monsters/Monster_furcorn diamonds=0 plant@cold 0 1 coins=10@80@coins=90 Natural 
 Monsters/Monster_spurrit_desert diamonds=0 spurrit 0 1 coins=10@28@coins=550 Seasonal spurrit,spurrit 10 0
 
 Monsters/Special/Monster_melochness coins=0 water@faerie 0 0 coins=10@120@coins=90 Magical melochness,melochness 0 0
-Monsters/Monster_percFrog coins=0 water@earth@faerie 0 0 coins=10@72@coins=100 Magical percFrog,percFrog 0 0
+Monsters/Monster_percFrog coins=0 water@earth 0 0 coins=10@72@coins=100 Magical percFrog,percFrog 0 0
 
 Monsters/Monster_arackulele diamonds=0 mech@shadow 0 1 coins=10@72@coins=1000 Ethereal arackulele,arackulele 0 0
 Monsters/Monster_reebro diamonds=0 mech 0 1 coins=10@72@coins=1000 Ethereal reebro,reebro 0 0

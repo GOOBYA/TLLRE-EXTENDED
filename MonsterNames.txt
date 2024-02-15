@@ -409,7 +409,7 @@ Bigsterr
 Mulshy
 ;
 Monsters/Monster_percFrog
-PercFrog
+Stoad
 Phibbobeat :>
 Frogge
 Brikfut

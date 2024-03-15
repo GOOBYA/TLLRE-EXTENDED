@@ -366,14 +366,14 @@ Decoration/Dog food=0 xpWhenPlaced:99000000 20 0
 
 
 Monsters/Monster_mammott_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
-Monsters/Monster_deedge_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
-Monsters/Monster_likho_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
-Monsters/Monster_quibble_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
-Monsters/Monster_stogg_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
+Monsters/Monster_deedge_dream coins=0 nightmare 0 9 coins=10@28@coins=550 nightmare , 0 0
+Monsters/Monster_likho_dream coins=0 nightmare 0 9 coins=10@80@coins=150 nightmare , 0 0
+Monsters/Monster_quibble_dream coins=0 nightmare 0 9 coins=10@80@coins=90 nightmare , 0 0
+Monsters/Monster_stogg_dream coins=0 nightmare 0 9 coins=10@60@coins=500 nightmare , 0 0
 Monsters/Monster_toejammer_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
-Monsters/Monster_ghazt_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
-Monsters/VOIDCORN_dream coins=0 knottshurr 0 0 coins=10@120@coins=60 nightmare , 0 0
-Monsters/Monster_dragong_dream coins=0 nightmare 0 9 coins=10@120@coins=60 nightmare , 0 0
+Monsters/Monster_ghazt_dream coins=0 nightmare 0 9 coins=10@72@coins=1000 nightmare , 0 0
+Monsters/VOIDCORN_dream coins=0 knottshurr 0 0 coins=10@80@coins=90 nightmare , 0 0
+Monsters/Monster_dragong_dream coins=0 nightmare 0 9 coins=10@72@coins=2500 nightmare , 0 0
 
 
 Monsters/Bonapetite coins=0 electricity 0 9 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Bonapetite 0 0

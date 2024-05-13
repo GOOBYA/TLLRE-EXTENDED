@@ -6,14 +6,14 @@ Rock;everyone;Happy Birthday!;Happy Birthday jackotrap!;icon@new;diamonds@200;st
 
 test_hahahhaha;everyone;Test;test;icon@gift;URL_LINK@Visit Website@https://sites.google.com/d/1M2TR3BxDCTo1zwtevyPwCtoQCrfSKBek/p/1pVRAFCf5RB5fMUdTxMjbDvu63_z5hR2b/edit
 
-ToVizgemuAgain;everyone;Для Визгему II;Привет, Визгему!\nНадеюсь, бутерброды того стоили, ха-ха!\nЯ отправил вам немного игровой валюты в качестве компенсации. Может быть, она поможет восстановить часть потерянного прогресса. В следующий раз будьте осторожнее с бутербродами и пюрешкой!\nУдачи в восстановлении и приятной игры!\n\nRaw Zebra\nП.С. Вашу обсерваторию уже можно активировать.\n\n;url@https://yt3.googleusercontent.com/hTM6KvOhK8tLYDffri_lim393HpvykG407UjhmGfEnk_YZ8AgVE-CBLZ_etibTRe4PN-JRNq=s176-c-k-c0x00ffffff-no-rj;diamonds@70;Relic@40;stars@400;Monsters/Monster_jamboree_undof@10
+ToVizgemuAgain;everyone;For Vizgemu II;Hi Vizgemu!\nI hope the sandwiches were worth it haha!\nI sent you some in-game currency as compensation. Maybe it will help restore some of the lost progress. Next time, be careful with sandwiches and puree!\nGood luck with your recovery and enjoy the game!\n\nRaw Zebra\nP.S. Your observatory can already be activated.\n\n;url@https://yt3.googleusercontent.com/hTM6KvOhK8tLYDffri_lim393HpvykG407UjhmGfEnk_YZ8AgVE-CBLZ_etibTRe4PN-JRNq=s176-c-k-c0x00ffffff-no-rj;diamonds@70;Relic@40;stars@400 ;Monsters/Monster_jamboree_undof@10
 
 
-PedroGuntly;everyone;Para Pedro;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
+PedroGuntly;everyone;For Pedro;Hey, here are some diamonds!\nAnd good luck with the game.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
-Kaww;everyone;Para Kaww;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
+Kaww;everyone;To Kaww;Hey, here are some diamonds!\nAnd good luck with the game.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
-Fire;everyone;Para FirePlayer;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
+Fire;everyone;For FirePlayer;Hey, here are some diamonds!\nAnd good luck with the game.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
 patch2;everyone;New Update (0.9);Hey there- we've added a new update, bringing new paths to Candy Island and adding some quality of life features. If you haven't yet, download the new update on our website at https://sites.google.com/view/msm-tll/download to play! As well, due to some tweaking of the game, a few people's T-Roxes on Noramba Desert became voidcorns. Please help yourselves to a free T-Rox as compensation (youll need to open this mail message on Desert to claim it!) Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
 
@@ -39,14 +39,15 @@ Gnarlsguy;everyone;To Knurvingarls;I hope you are having fun! Here are some good
 
 ppopasa2ddd;everyone;fghfhk;fghjfhjfghj;icon@present;Relic@20
 
-ContestWinner_new_1;everyone;paffosovich;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_punkleton@1
-ContestWinner_new_1;everyone;Тимур;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_schmoochle@1
-ContestWinner_new_1;everyone;Paint_Pong;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Knott_special@1
-ContestWinner_new_1;everyone;Захар;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_plixie@1
-ContestWinner_new_1;everyone;Тиаква;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_ffydill@1
+ContestWinner_new_1;everyone;paffosovich;Congratulations on winning the competition! Here's your prize - RawZebra;icon@gift;diamonds@100;Monsters/Monster_punkleton@1
+ContestWinner_new_1;everyone;Timur;Congratulations on winning the competition! Here's your prize - RawZebra;icon@gift;diamonds@100;Monsters/Monster_schmoochle@1
+ContestWinner_new_1;everyone;Paint_Pong;Congratulations on winning the competition! Here's your prize - RawZebra;icon@gift;diamonds@100;Monsters/Knott_special@1
+ContestWinner_new_1;everyone;Zakhar;Congratulations on winning the competition! Here's your prize - RawZebra;icon@gift;diamonds@100;Monsters/Monster_plixie@1
+ContestWinner_new_1;everyone;Tiaqua;Congratulations on winning the competition! Here's your prize - RawZebra;icon@gift;diamonds@100;Monsters/Monster_ffydill@1
 
 
 aga;everyone;Aha;Pon - RawZebra;icon@gift;diamonds@30000
 
 
 reset;everyone;Paint_Pong 2;Pon - RawZebra;icon@gift;diamonds@9900
+
